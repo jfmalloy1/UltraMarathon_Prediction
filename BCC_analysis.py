@@ -5,6 +5,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 import os
 import time
 import pandas as pd
+import pickle
 
 def main():
     url = "https://ultrasignup.com/results_event.aspx?did=77199"
@@ -20,9 +21,22 @@ def main():
     results = driver.find_element_by_id(sel)
     rows = results.text.split('\n')
     runner_rows = [row.split() for row in rows]
-    cols = runner_rows[0:10]
-    content = runner_rows[11:]
-    print(content)
+    cols = [c[0] for c in runner_rows[0:9]]
+    cols.insert(0, "Description")
+    cols.insert(5, "State")
+    # #10th element is number of finishers"['Finishers', '-', '363']"
+    #
+    content = runner_rows[10:]
+    print(content[0])
+    print(content[0][-6:])
+    content = [c[-6:] for c in content]
+    for c in content:
+        print(c)
+    #print(content)
+    #
+    df = pd.DataFrame(content, columns = cols[-6:])
+    print(df.head())
+    pickle.dump(df, open("BC2021_100k.p", "wb"))
 
 if __name__ == "__main__":
     main()
