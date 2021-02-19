@@ -32,11 +32,11 @@ def main():
     content = [c[-6:] for c in content]
     for c in content:
         print(c)
-    #print(content)
-    #
     df = pd.DataFrame(content, columns = cols[-6:])
     print(df.head())
     pickle.dump(df, open("BC2021_100k.p", "wb"))
+
+    ##TODO: add first finisher, remove "Did Not Finish" line, make
 
 if __name__ == "__main__":
     main()
