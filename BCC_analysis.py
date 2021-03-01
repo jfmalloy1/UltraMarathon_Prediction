@@ -8,13 +8,14 @@ import pandas as pd
 import pickle
 
 def main():
-    url = "https://ultrasignup.com/results_event.aspx?did=77199"
+    url_2021 = "https://ultrasignup.com/results_event.aspx?did=77199"
+    url_2020 = "https://ultrasignup.com/results_event.aspx?did=67039"
     #NOTE: Chromedriver is in /Lab/CitationNetworks
     #driver = webdriver.Chrome("../../chromedriver", options=options)
 
     #NOTE: driver setup from: https://stackoverflow.com/questions/60296873/sessionnotcreatedexception-message-session-not-created-this-version-of-chrome
     driver = webdriver.Chrome(ChromeDriverManager().install())
-    driver.get(url)
+    driver.get(url_2020)
 
     #Results from: https://medium.com/@elizabeth.guy86/gender-differences-in-ultra-running-f0880047b9ed
     sel = "gbox_list"
@@ -34,9 +35,8 @@ def main():
         print(c)
     df = pd.DataFrame(content, columns = cols[-6:])
     print(df.head())
-    pickle.dump(df, open("BC2021_100k.p", "wb"))
+    pickle.dump(df, open("BC2020_100k.p", "wb"))
 
-    ##TODO: add first finisher, remove "Did Not Finish" line, make
 
 if __name__ == "__main__":
     main()
