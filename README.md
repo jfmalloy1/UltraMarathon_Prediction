@@ -19,7 +19,7 @@ Runtime
 Support
 -------
 
-Email comments, suggestions, or critiques to jfmalloy1@gmail.com
+Email comments, suggestions, or critiques to jmalloy3@asu.edu
 
 License
 -------
