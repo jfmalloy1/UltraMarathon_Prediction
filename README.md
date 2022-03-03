@@ -1,5 +1,4 @@
 # UltraRunning Data Visualization
-========
 
 Data visualization project to compare race times between ultramarathons, with an initial focus on Aravaipa Running's Black Canyon 100k.
 
