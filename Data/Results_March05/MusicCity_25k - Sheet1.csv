@@ -1,0 +1,78 @@
+Place,First,Last,City,,Age,Gender,GP,Time,Rank
+1,Bo,Parrish,Nashville,TN,43,M,1,2:43:07,100
+2,Jason,Loyd,Brentwood,TN,50,M,2,2:44:46,75.07
+3,Matt,Reynolds,Nashville,TN,34,M,3,2:55:35,78.85
+4,Brent,Presley,Brentwood,TN,37,M,4,2:59:33,90.85
+5,Kacper,Wiszowaty,Park Ridge,IL,26,M,5,2:59:35,90.99
+6,Justin,Allen,Kingston Spgs,TN,42,M,6,3:00:54,65.96
+7,Garth,Trusler,Nashville,TN,36,M,7,3:00:59,80.72
+8,Wendy,Fielder,Brentwood,TN,48,F,1,3:01:19,81.39
+9,Will,Gamble,Franklin,TN,43,M,8,3:02:00,68.07
+10,William,Harwood,Brentwood,TN,57,M,9,3:03:57,80.68
+11,Michael,Sager,Thompsons Station,TN,36,M,10,3:04:40,88.33
+12,Brooke,Wanser,Franklin,TN,27,F,2,3:05:38,95.25
+13,Will,Motley,Nashville,TN,51,M,11,3:07:57,73.79
+14,Jacob,Gabbard,Thompsons Station,TN,42,M,12,3:15:43,83.35
+15,Holly,Batey,Hermitage,TN,31,F,3,3:16:07,95.43
+16,Zach,Patton,Franklin,TN,33,M,13,3:17:19,72.52
+17,David,Gibson,Franklin,TN,39,M,14,3:22:09,75.55
+18,Logan,Luker,Murfreesboro,TN,32,M,15,3:24:56,65.14
+19,Robert,Dolan,Thompson Station,TN,50,M,16,3:27:13,73.02
+20,Chris,Freeman,Gallatin,TN,39,M,17,3:27:15,75.22
+21,David,Everts,Spring hill,TN,36,M,18,3:27:55,71.34
+22,Jessica,Barlow,Nashville,TN,31,F,4,3:28:44,76.46
+23,Sherri,Lorraine,INDIAN HARBOUR BEACH,FL,45,F,5,3:30:34,75.25
+24,Albert,Dimercurio,Birmingham,AL,57,M,19,3:30:55,62.73
+25,Beckan,Fielder,Brentwood,TN,13,M,20,3:31:23,77.17
+26,Chris,Strictland,Nashville,TN,48,M,21,3:34:15,76.14
+27,Ryan,Kirk,nashville,TN,33,M,22,3:35:24,70.08
+28,Brian,Bales,Nashville,TN,40,M,23,3:37:48,67.23
+29,Pete,Jones,Nashville,TN,33,M,24,3:37:51,74.88
+30,Loyal,Carpenter,Spring Hill,TN,26,M,25,3:38:30,81.31
+31,Jason,Bostelman,Nolensville,TN,46,M,26,3:38:47,58.87
+32,Ben,Webster,Spring Hill,TN,35,M,27,3:42:06,73.45
+33,Camille,Floyd,Nashville,TN,30,F,6,3:42:51,72.96
+34,Lindsey,Johnson,Nashville,TN,32,F,7,3:42:54,73.23
+35,Chris,Lehmann,Nashville,TN,45,M,28,3:44:22,58.41
+36,Lara,Heart,Lebanon,TN,44,F,8,3:44:49,83.94
+37,Alan,Thomas,Gallatin,TN,50,M,29,3:44:52,72.54
+38,Pete,Thern,Gallatin,TN,46,M,30,3:45:53,72.22
+39,Haley,Peel,Nashville,TN,37,F,9,3:50:53,67.37
+40,Dale,Vanhooser,Spring Hill,TN,63,M,31,3:51:03,63.83
+41,Dave,Bradey,Brentwood,TN,48,M,32,3:55:37,66.68
+42,Liberty,Murray,Spring Hill,TN,45,F,10,3:55:59,80.63
+43,Lillian,Gilmer,Nashville,TN,49,F,11,3:56:07,75.91
+44,"Stephen ""Stevedug""",Wilson,Lascassas,TN,55,M,33,3:56:42,68.92
+45,Elliot,Kelley,Franklin,TN,30,M,34,3:56:44,69.51
+46,Elizabeth,Magdich,Noblesville,IN,40,F,12,3:56:50,74.6
+47,Jason,Brock,Arlington,TN,42,M,35,4:01:46,62.53
+48,Kevin,Bush,Hendersonville,TN,43,M,36,4:02:34,53.73
+49,Christine,Birschbach,Fond Du Lac,WI,38,F,13,4:03:04,74.6
+50,Tricia,Tienor,Valders,WI,33,F,14,4:03:05,76.62
+51,John,Stock,Nashville,TN,50,M,37,4:04:43,66.56
+52,Kristen,Wilson Fisher,Franklin,TN,44,F,15,4:09:34,86.82
+53,Joel,McCauley,Murfreesboro,TN,47,M,38,4:12:10,58.31
+54,Robert,Tate,Lake Cormorant,MS,31,M,39,4:15:30,76.78
+55,David,Carr,Nashville,TN,33,M,40,4:18:00,69.96
+56,Emily,Verschoor-Kirss,Nashville,TN,28,F,16,4:18:27,65.8
+57,Kerry,Risley,Nashville,TN,59,M,41,4:18:42,60.87
+58,Craig,Dore,Nashville,TN,51,M,42,4:26:28,60.71
+59,Jessica,Figlio,Fond Du Lac,WI,39,F,17,4:28:28,67.54
+60,Brittany,May,Coldwater,MS,38,F,18,4:29:06,73.8
+61,Nicole,Rudder,Columbia,TN,48,F,19,4:30:16,74.98
+62,Taryn,Causey,Hernando,MS,39,F,20,4:35:54,63.29
+63,Austin,Jackson,Gallatin,TN,41,M,43,4:39:01,58.46
+64,Craig,Brenner,Spring Hill,TN,54,M,44,4:45:31,58.12
+65,Jordan,Glenn,Smyrna,TN,25,M,45,4:47:07,56.81
+66,Cressa,Glenn,Smyrna,TN,51,F,21,4:47:10,64.51
+67,Jeffrey,Baker,Murfreesboro,TN,41,M,46,4:47:26,50.93
+68,Charles,Jolley,Mount Juliet,TN,47,M,47,4:55:07,59.3
+69,Cory,McClain,Nashville,TN,48,M,48,5:06:47,53.17
+70,Michael,Fielder,Brentwood,TN,47,M,49,5:06:48,63.19
+71,Mary Kate,Pollreis,Nolensville,TN,30,F,22,5:21:00,62.12
+72,Jodi,Gibbs,La Vergne,TN,33,F,23,5:21:00,61.76
+73,James,Ruane,Blowing Rock,NC,54,M,50,5:22:40,57.52
+74,Jemmye,Helms,Hernando,MS,47,F,24,5:29:48,57.35
+75,Sheila,Dykes,Olive Branch,MS,62,F,25,5:29:49,50.01
+76,Glenn,Wilhoite,Hendersonville,TN,50,M,51,5:44:35,55.21
+77,Jennifer,Thistle,Ashland City,TN,41,F,26,5:44:37,60.46
