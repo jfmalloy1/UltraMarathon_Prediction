@@ -1,0 +1,78 @@
+Place,First,Last,City,,Age,Gender,GP,Time,Rank
+1,Natty,Montoya,Richmond,VA,33,M,1,4:08:07,90.11
+2,James,Lum,Richmond,VA,34,M,2,4:24:13,84.8
+3,Michael,Hofmann,Reston,VA,48,M,3,4:38:00,79.35
+4,Jason,Davidson,Springfield,VA,48,M,4,4:43:31,78.54
+5,Timmy,Morgan,,,35,M,5,4:59:30,78.52
+6,Faron,Faulk,cornelius,NC,55,M,6,5:00:11,74.68
+7,Jason,Mais,,,42,M,7,5:02:14,73.18
+8,Luis,Tejerina,Falls Church,VA,42,M,8,5:04:44,77.76
+9,Xavier,McFadden,Laurel,MD,27,M,9,5:09:04,72.62
+10,Brian,Quintana,New Bern,NC,27,M,10,5:11:59,75.04
+11,Tyler,Ford,Charlottesville,VA,27,M,11,5:14:59,77.46
+12,Daniel,Bondy,Short Hills,NJ,27,M,12,5:16:36,77.14
+13,Kevin,Fleeger,Ponte Vedra,FL,62,M,13,5:26:36,75.21
+14,Jacob,Morrell,Norfolk,VA,38,M,14,5:30:46,75.01
+15,Sandor,Karacsony,Chevy Chase,MD,44,M,15,5:39:59,72.98
+16,Mike,Kempski,West Chester,PA,22,M,16,5:44:45,71.97
+17,Sierra,Schenk,Lusby,MD,44,F,1,5:45:55,77.68
+18,Daniel,Sexton,Durham,NC,32,M,17,5:47:27,71.41
+19,Anthony,Wolosik,Washington,DC,29,M,18,5:49:14,71.05
+20,Heather,Moldofsky,Bealeton,VA,27,F,2,5:49:57,76.94
+21,Rachel,Zelibor,Rolesville,NC,39,F,3,5:49:58,67.72
+22,Doug,Havens,Mclean,VA,34,M,19,5:55:18,67.05
+23,Ryan,Moreland,Arlington,VA,40,M,20,5:55:24,75.37
+24,Tom,Ruch,Parsonsburg,MD,34,M,21,5:58:01,69.3
+25,John,Davis,Madison,WI,36,M,22,5:59:12,67.44
+26,Louis,Kugel,Lancaster,PA,45,M,23,5:59:30,70.7
+27,Chris,Webb,Conshohocken,PA,30,M,24,6:00:39,69.53
+28,Kaysey,Wickins,Conshohocken,PA,32,F,4,6:00:39,95.91
+29,Paul,Limmiatis,White Plains,NY,57,M,25,6:06:49,68.89
+30,James,Sayko,Chevy Chase,MD,41,M,26,6:07:54,67.44
+31,Dean,Bennett,Mechanicsville,VA,31,M,27,6:08:49,77.73
+32,Alfred,Jasins,Washington,DC,43,M,28,6:11:12,70.35
+33,Fletcher,Schoen,Washington,DC,33,M,29,6:12:03,59.41
+34,Peter,Folan,Arlington,VA,37,M,30,6:12:38,65.74
+35,Alan,Kusakabe,Baltimore,MD,48,M,31,6:14:43,70.23
+36,Pierre,Millette,Repentigny,QC,59,M,32,6:17:36,65.71
+37,Anthony,Phillips,Richmond,VA,34,M,33,6:18:17,58.53
+38,Joshua,Lyons,Harrisonburg,VA,28,M,34,6:19:28,68.43
+39,Jon,Marks,Cortland,NY,62,M,35,6:22:40,65.33
+40,Jonathan,Salmons,VERONA,VA,40,M,36,6:26:00,64.28
+41,Maxime,Ferland,Lorton,VA,31,M,37,6:26:18,61.24
+42,Joshua,Witte,Virginia Beach,VA,50,M,38,6:31:00,69.2
+43,Dirk,Bartlett,Arlington,VA,43,M,39,6:31:58,60.47
+44,Brian,Worth,Arlington,VA,45,M,40,6:31:58,62.81
+45,Jason,Albritton,Alexandria,VA,42,M,41,6:31:59,63.3
+46,Brian,Galhouse,Fairfax,VA,49,M,42,6:32:06,63.28
+47,Cory,May,Winchester,VA,34,M,43,6:33:49,63
+48,Walter,Weiss,Washington,DC,36,M,44,6:36:15,58.67
+49,Jp,Sorrell,Vienna,VA,54,M,45,6:38:05,62.33
+50,Andrew,Arbuckle,Washington,DC,47,M,46,6:41:22,56.34
+51,Scott,Cheatham,Midlothian,VA,36,M,47,6:45:34,65.75
+52,Erich,Bratke,Arlington,VA,26,M,48,6:46:01,61.11
+53,Kori,Sorensen,New Bern,NC,29,F,5,6:46:35,85.08
+54,Broden,Menzies,Vallejo,CA,25,M,49,6:46:36,61.02
+55,Bryant,Morrison,Charlottesville,VA,38,M,50,6:46:41,53.13
+56,Jerome,Trageser,Charlottesville,VA,36,M,51,6:46:41,63.56
+57,Doug,Woods,Vienna,VA,61,M,52,6:52:03,61.61
+58,David,Martin,Virginia Beach,VA,49,M,53,6:52:42,65.1
+59,Kimberly,Battipaglia,New Haven,CT,50,F,6,7:02:35,82.08
+60,Vincent,Framularo,Trumbull,CT,40,M,54,7:02:36,63.27
+61,Miguel,Anselmo,St Paul,MN,24,M,55,7:05:09,63.99
+62,Sean,Norton,Princeton,NJ,38,M,56,7:05:45,58.28
+63,Keith,McQuade,Annapolis,MD,38,M,57,7:05:58,58.25
+64,Nathaniel,Mitchell,Norfolk,VA,45,M,58,7:13:45,54.08
+65,Antonio,Puzzangara,West Chester,PA,22,M,59,7:16:25,56.85
+66,Alex,Pace,Mountain City,TN,32,M,60,7:24:03,57.17
+67,Mike,Averill,Shady Valley,TN,50,M,61,7:24:43,59.09
+68,Jeff,Andersen,Aldie,VA,37,M,62,7:28:41,57.42
+69,Jenn,Clemons,Newport News,VA,50,F,7,7:30:09,71.76
+70,Shane,Erickson,,,30,M,63,7:32:13,64.53
+71,Brittany,Grubbs,Kernersville,NC,34,F,8,7:35:49,72.85
+72,Judy,Swade,Advance,NC,55,F,9,7:35:50,69.67
+73,Brian,Roberts,Williamsburg,VA,42,M,64,7:36:13,49.21
+74,Katherine,Weeks,Norfolk,VA,47,F,10,7:59:23,62.76
+75,Jonathan,Smith,Charles Town,WV,34,M,65,8:05:01,64.61
+76,Heli,Hyypia,Washington,DC,37,F,11,8:11:48,67.17
+77,Kevin,Shultis,Hanover,PA,28,M,66,9:15:19,49.03

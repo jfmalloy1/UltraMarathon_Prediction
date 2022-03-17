@@ -1,0 +1,75 @@
+Place,First,Last,City,,Age,Gender,GP,Time,Rank
+1,Damon,Valenzona,San Diego,CA,35,M,1,3:50:25,85.57
+2,Robert,Verhees,San Diego,CA,56,M,2,4:03:08,79.56
+3,Riley,Robertson,San Diego,CA,32,M,3,4:11:48,76.2
+4,Jessica,Schnier,Spring Valley,CA,24,F,1,4:33:18,90.32
+5,Sarah,Greenlee,San Diego,CA,37,F,2,4:37:56,80.96
+6,Adam,Atkinson,Lake Elsinore,CA,42,M,4,4:48:45,73.53
+7,Phillip,Espinoza,Anza,CA,33,M,5,4:52:58,75.47
+8,Brandon,Collins,Lakeside,CA,45,M,6,4:55:19,70.93
+9,David,Clausen,Tucson,AZ,24,M,7,5:00:37,83.29
+10,Tom,Koerner,Santee,CA,54,M,8,5:01:39,77.5
+11,Jonathan,Anderson,San Diego,CA,41,M,9,5:06:35,79.88
+12,Laura,Becker,Manchester,CT,37,F,3,5:07:50,89.88
+13,Gabe,Peterson,Escondido,CA,48,M,10,5:12:02,68.85
+14,Robin,Mcdearmon,Laguna Beach,CA,51,M,11,5:17:52,67.81
+15,Christy,Baker,San Diego,CA,50,F,4,5:20:57,88.49
+16,Nick,Balaity,Carlsbad,CA,32,M,12,5:26:15,70.41
+17,Anna,Barron,Vista,CA,43,F,5,5:27:11,91.74
+18,David,Hart,Chula Vista,CA,31,M,13,5:29:16,69.98
+19,Ben,Hian,Carlsbad,CA,52,M,14,5:31:52,92.06
+20,Scott,Long,Vista,CA,40,M,15,5:33:47,67.66
+21,Mary,Nelson,San Diego,CA,52,F,6,5:36:44,90.92
+22,John,Kerschbaum,San Marcos,CA,47,M,16,5:37:22,67.89
+23,Justin,Moe,San Diego,CA,50,M,17,5:39:17,67.91
+24,Peter,Berk,Poway,CA,50,M,18,5:39:49,66.04
+25,Robert,Cuen,El Cajon,CA,39,M,19,5:40:32,70.91
+26,Chase,Hughes,Vista,CA,34,M,20,5:45:21,65.23
+27,Julian,Montoya,Sonora,CA,35,M,21,5:47:42,78.61
+28,TR,Albert,LOS ANGELES,CA,49,F,7,5:49:57,74.65
+29,Martha Elena,Baugh,Spring Valley,CA,37,F,8,5:58:34,69.86
+30,Robert,Perry,Chula Vista,CA,50,M,22,6:03:42,70.07
+31,Robert,Pardy,San Diego,CA,62,M,23,6:04:45,65.86
+32,Carlee,Padot McClurg,Oceanside,CA,37,F,9,6:13:57,76.41
+33,Richard,Fortin,Santee,CA,50,M,24,6:14:14,67.12
+34,Monica,Palusso,Carlsbad,CA,43,F,10,6:15:01,72.88
+35,Bethany,Schramm,Rossmoor,CA,49,F,11,6:15:28,71.22
+36,Edith,Martinez,Brea,CA,54,F,12,6:17:50,90.93
+37,Xavier,Magdaleno,Bellflower,CA,34,M,25,6:18:54,57.12
+38,Edgar,Campos,Chula Vista,CA,68,M,26,6:20:02,65.15
+39,Jerry,Stephenson,Carlsbad,CA,65,M,27,6:22:50,76.92
+40,Don,Tanaka,Long Beach,CA,65,M,28,6:22:58,60.17
+41,Nathan,Youngblood,Poway,CA,48,M,29,6:23:05,60.15
+42,Todor,Trenkov,Monrovia,CA,64,M,30,6:23:29,62.22
+43,Joshua,Estep,San Diego,CA,35,M,31,6:25:31,67.03
+44,Shangrila,Rendon,Hawthorne,CA,40,F,13,6:31:47,71.16
+45,Ryan,McDonough,Valley Center,CA,44,M,32,6:31:54,64.64
+46,Jacob,Van Rensburg,Yucaipa,CA,49,M,33,6:36:09,58.16
+47,Todd,Hockensmith,San Diego,CA,40,M,34,6:37:31,68.65
+48,John-Paul,Angulo,Los Angeles,CA,24,M,35,6:37:46,57.93
+49,Stephen,Matoesian,Chatsworth,CA,24,M,36,6:37:50,66.61
+50,Mark,Kern,San Diego,CA,46,M,37,6:39:22,69.61
+51,Wayne,Amo,El cajon,CA,53,M,38,6:39:50,59.48
+52,Liz,Haynes,Carlsbad,CA,36,F,14,6:40:29,70.02
+53,Colleen,Heller,Vista,CA,43,F,15,6:40:33,72.14
+54,Edward,Kelly,La Mesa,CA,42,M,39,6:41:54,58.45
+55,Eric,Pray,San Diego,CA,40,M,40,6:42:39,62.45
+56,Landon,Walls,San Diego,CA,39,M,41,6:44:39,56.94
+57,Katherine,Greenblatt,BISHOP,CA,34,F,16,6:44:55,72.92
+58,Cory,Schmelzer,La Jolla,CA,47,M,42,6:52:43,57.89
+59,Ali,Rashidi,Spring valley,CA,49,M,43,6:54:53,54.05
+60,Nicole,Fox,La Mesa,CA,42,F,17,6:54:56,75.96
+61,Douglas,Gillingham,Solana Beach,CA,63,M,44,6:56:39,67.92
+62,Doug,Miller,Encinitas,CA,52,M,45,7:00:59,77.37
+63,Ron,Turner,Lemon Grove,CA,53,M,46,7:02:52,54.49
+64,Brendan,Wiley,Santee,CA,46,M,47,7:10:26,67.65
+65,Shyam,Parekh,San Diego,CA,40,M,48,7:20:52,55.68
+66,Melissa,Tawney,Murrieta,CA,45,F,18,7:33:24,64.27
+67,Seng-Lai,Tan,Sudbury,MA,50,M,49,8:00:52,61.66
+68,John,Lefter,San Diego,CA,41,M,50,8:17:05,49.64
+69,Shelly,Hess,San Diego,CA,49,F,19,8:22:27,60.78
+70,Maureen,Cottrell,San Diego,CA,59,F,20,8:39:22,64.35
+71,Wendy,Urushima-Conn,San Diego,CA,52,F,21,8:43:54,56.35
+72,Christina,Thompson,Santee,CA,42,F,22,8:45:40,62.21
+73,Melody,French,San Diego,CA,47,F,23,8:45:40,56.24
+74,Josh,Bellows,Coachella,CA,29,M,51,9:17:05,41.36

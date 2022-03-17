@@ -1,0 +1,60 @@
+Place,First,Last,City,,Age,Gender,GP,Time,Rank
+1,Brett,Hornig,Ashland,OR,30,M,1,35:07:00,92.88
+2,Jeffrey,Stern,Bend,OR,34,M,2,36:03:00,91.39
+3,Dylan,Alexander,Medford,OR,28,M,3,36:48:00,97.45
+4,Kyle,Carson,Ashland,OR,37,M,4,38:14:00,89.98
+5,Brian,Janes,Ashland,OR,43,M,5,39:02:00,85.88
+6,Nicholas,Hodges,Gold Hill,OR,25,M,6,40:02:00,90.49
+7,Kurt,Smet,Phoenix,OR,34,M,7,41:26:00,86.53
+8,Kevin,Kocarek,"Ashland, Or",OR,49,M,8,42:53:00,81.88
+9,Justin,Petersen,Ashland,OR,41,M,9,43:31:00,80.68
+10,Nathan,Trimble,ASHLAND,OR,34,M,10,43:33:00,87.27
+11,Louis,Ebersold,Eagle Point,OR,13,M,11,43:39:00,80.45
+12,Jeff,Morgan,Medford,OR,31,M,12,43:46:00,74.57
+13,Canyon,Lowes,St. Augustine,FL,16,M,13,44:47:00,70.47
+14,Pete,Wallstrom,Ashland,OR,49,M,14,46:30:00,77.96
+15,Stephen,Staha,Ashland,OR,42,M,15,47:16:00,66.76
+16,Madison,Hornig,Ashland,OR,30,F,1,47:19:00,89.35
+17,Andy,Sutterfield,Medford,OR,31,M,16,47:26:00,68.15
+18,Kevin,McCarthy,Ashland,OR,60,M,17,48:09:00,61.54
+19,Carsen,Dowding,Ashland,OR,31,F,2,49:00:00,76.15
+20,Hank,Kearns,ASHLAND,OR,41,M,18,50:36:00,70.83
+21,Rafael,Camacho,Talent,OR,43,M,19,50:44:00,69.22
+22,Aysha,Staha,Ashland,OR,44,F,3,52:33:00,72.5
+23,Kyle,Mikolajczyk,Yreka,CA,39,M,20,53:31:00,82.96
+24,Sharon,Mosley,Eugene,OR,59,F,4,57:09:00,68.49
+25,Jason,Howard,Central Point,OR,52,M,21,57:15:00,63.89
+26,Jonathan,Mann,Grenada,CA,44,M,22,58:23:00,71.56
+27,Steve,Bachmann,Mount Shasta,CA,56,M,23,58:24:00,60.13
+28,Jeffrey,Stone,Yreka,CA,66,M,24,58:53:00,65.32
+29,Anastasia,Schmaltz,Columbia,MO,31,F,5,58:54:00,77.4
+30,Stuart,O'Neill,Ashland,OR,48,M,25,59:17:00,61.46
+31,Neil,Clooney,Ashland,OR,46,M,26,1:00:36,59.27
+32,Kai,Kuwabara,Ashland,OR,10,M,27,1:00:55,72.25
+33,Bethany,Givens,ASHLAND,OR,32,F,6,1:01:05,68.02
+34,Brian,Crail,Medford,OR,33,M,28,1:01:18,54.75
+35,Nikko,Kuwabara,Ashland,OR,8,M,29,1:01:27,72
+36,Charles,Hadley,Central Point,OR,43,M,30,1:01:30,60.1
+37,Mike,Gallagher,Central point,OR,57,M,31,1:02:24,56.92
+38,Aaron,Hoefling,Medford,OR,50,M,32,1:02:42,59.42
+39,Elizabeth,Tobey,Ashland,OR,35,F,7,1:05:17,70.36
+40,Oliver,Willumsen,Ashland,OR,8,M,33,1:05:58,76.47
+41,Martha,Cavazos,Ashland,OR,52,F,8,1:06:50,70.81
+42,Maria,Katsantones,Ashland,OR,59,F,9,1:08:12,67.03
+43,Ollie,Olsen,Ashland,OR,6,M,34,1:10:52,49.55
+44,Jack,Olsen,Ashland,OR,39,M,35,1:10:54,49.93
+45,Lisa,McCarthy,Ashland,OR,57,F,10,1:11:15,66.41
+46,Wendy,Maynard,Ashland,OR,53,F,11,1:11:17,76.86
+47,Lennyann,Bishop,Fort Jones,CA,44,F,12,1:11:37,66.08
+48,Toni,Downey,Fort Jones,CA,44,F,13,1:13:26,64.44
+49,Laura,Duncan,Ashland,OR,65,F,14,1:13:27,74.25
+50,Katherine,Wolfe,Ashland,OR,71,F,15,1:22:07,54.24
+51,Larry,Zowada,Ashland,OR,71,M,36,1:24:14,46.53
+52,Hazer,Willumsen,Houston,TX,40,F,16,1:24:54,49.32
+53,Norman,Shaskey,Yreka,CA,74,M,37,1:38:22,43.18
+54,Peter,Philbrick,Ashland,OR,42,M,38,1:38:55,51.5
+55,Lucy,Durst,Ashland,OR,35,F,17,1:38:56,60.05
+56,Marjorie,Sutterfield,Medford,OR,36,F,18,2:04:59,37.86
+57,Dru,Griffin,Ashland,OR,78,F,19,2:21:13,43.94
+58,Karen,Ebersold,Eagle Point,OR,44,F,20,2:21:15,48.66
+59,Sofia,Willumsen,Ashland,OR,5,F,21,3:05:18,26.29

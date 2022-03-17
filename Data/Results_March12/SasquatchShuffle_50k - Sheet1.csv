@@ -1,0 +1,58 @@
+Place,First,Last,City,,Age,Gender,GP,Time,Rank
+1,Dylan,Jones,San Marcos,TX,36,M,1,4:45:23,96.76
+2,Yi,Luo,Houston,TX,50,M,2,4:59:47,95.2
+3,Cheng,Wood,SUGAR LAND,TX,47,F,1,5:17:15,100
+4,Maks,Mikhalov,Celina,TX,39,M,3,5:17:20,81.67
+5,Chaoyang,Fu,Missouri City,TX,48,M,4,5:17:23,89.92
+6,Kimberly,Endo,Carrollton,TX,25,F,2,5:19:39,94.87
+7,Hui,Long,Sugar Land,TX,46,M,5,5:25:46,87.6
+8,John,Bergeron,Houston,TX,50,M,6,5:43:59,79.48
+9,Jeremy,Hamilton,Salado,TX,37,M,7,6:00:00,63.6
+10,Yan,Liu,Katy,TX,51,F,3,6:09:25,80.81
+11,Daniel,Meier,Frisco,TX,49,M,8,6:19:15,70.16
+12,Levi,Miller,Fort Worth,TX,40,M,9,6:23:18,74.46
+13,Joe,Kraska,Lake charles,LA,38,M,10,6:36:40,72.24
+14,Lane,Babin,Iowa,LA,39,M,11,6:36:46,65.36
+15,Ryan,Thornton,Arlington,TX,29,M,12,6:37:50,70.34
+16,Benjamin,Croes,Arlington,TX,43,M,13,6:46:36,67.37
+17,James,Ranspot,Dallas,TX,52,M,14,6:46:44,65.91
+18,Erica,Pence,Columbus,OH,36,F,4,6:47:13,79.73
+19,Jaime,Rodriguez,Houston,TX,30,M,15,6:51:27,73.4
+20,Alyssa,Rodriguez,Houston,TX,30,F,5,6:51:30,83.68
+21,Michael,Criner,Chandler,TX,40,M,16,6:57:02,68.45
+22,Morgan,Pence,FORT WORTH,TX,38,F,6,6:58:58,75.1
+23,Juan Carlos,Ramirez,Houston,TX,35,M,17,7:10:00,69.14
+24,Kenneth,Beck,Lakeside,TX,52,M,18,7:16:21,52.93
+25,Travis,Darrow,Portage,MI,29,M,19,7:17:21,67.44
+26,Trenton,Darrow,Salado,TX,29,M,20,7:17:27,61.34
+27,Avery,Lewis,Houston,TX,34,F,7,7:20:03,75.56
+28,Gregory,James,Lexington,SC,65,M,21,7:21:08,63.31
+29,Eva,Laubach,Jackson,WY,25,F,8,7:42:26,68.6
+30,Nicholas,Samsel,Salmon,ID,29,M,22,7:42:28,61.71
+31,Natalie,Harvey,Houston,TX,36,F,9,7:43:46,79.85
+32,Wade,Kao,Houston,TX,47,M,23,7:43:47,62.16
+33,Julio,Salazar,FRIENDSWOOD,TX,56,M,24,7:50:06,62.86
+34,Amanda,Wiebush,Austin,TX,37,F,10,7:54:27,77.59
+35,Kaitlin,Keys,Greenville,TX,35,F,11,7:56:55,69.23
+36,Gary,Deese,NEDERLAND,TX,54,M,25,8:02:51,59.11
+37,Bethany,Metcalfe,Tahlequah,OK,33,F,12,8:16:38,53.46
+38,Michael,Ross,Pearland,TX,53,M,26,8:18:45,56.53
+39,Brolyn,Petri,Houston,TX,47,M,27,8:18:50,57.6
+40,Martin,Banda,Alvin,TX,27,M,28,8:18:54,57.2
+41,Megan,Schroeder,Denton,TX,37,F,13,8:24:48,62.85
+42,Katy,Wakin,Burleson,TX,41,F,14,8:33:03,67.81
+43,Cari,Cline,Katy,TX,33,F,15,8:35:09,61.58
+44,William,Moeller,Spring,TX,66,M,29,8:44:23,57.8
+45,Anthony,Guthrie,Dallas,TX,48,M,30,8:57:09,57.62
+46,Courtney,Nall,DALLAS,TX,43,F,16,9:00:22,58.32
+47,Emily,Selec,Allen,TX,58,F,17,9:00:29,55.33
+48,Sasha,Williams,GAINESVILLE,TX,45,F,18,9:02:00,60.38
+49,Lori,Kennedy,Nacogdoches,TX,51,F,19,9:05:28,67.93
+50,Kelly,Scheetz,Benbrook,TX,43,F,20,9:08:37,51.22
+51,Amanda,Oliver,FORT WORTH,TX,40,F,21,9:08:42,58.62
+52,Jeff,Byrd,Fort Worth,TX,62,M,31,9:08:44,56.01
+53,John,Meredith,Hideaway,TX,51,M,32,9:22:51,53.51
+54,Stephen,Garcia,San Antonio,TX,45,M,33,9:25:41,48.79
+55,Eric,Durrett,DALLAS,TX,39,M,34,9:46:30,49.65
+56,Kristin,Martindale,Valley View,TX,36,F,22,10:01:14,52.77
+57,Priscilla,Gutierrez,San Antonio,TX,42,F,23,11:08:29,57.92
