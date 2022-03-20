@@ -79,9 +79,13 @@ class MLP(Module):
         self.hidden2 = Linear(10, 8)
         xavier_uniform_(self.hidden2.weight)
         self.act2 = Sigmoid()
-        # third hidden layer and output
-        self.hidden3 = Linear(8, 1)
+        # third hidden layer and output (this is new!)
+        self.hidden3 = Linear(8, 6)
         xavier_uniform_(self.hidden3.weight)
+        self.act3 = Sigmoid()
+        # fourth hidden layer
+        self.hidden4 = Linear(6, 1)
+        xavier_uniform_(self.hidden4.weight)
 
     # forward propagate input
     def forward(self, X):
@@ -91,8 +95,11 @@ class MLP(Module):
         # second hidden layer
         X = self.hidden2(X)
         X = self.act2(X)
-        # third hidden layer and output
+        #third hidden layer
         X = self.hidden3(X)
+        X = self.act3(X)
+        # third hidden layer and output
+        X = self.hidden4(X)
         return X
 
 
