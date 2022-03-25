@@ -1,0 +1,72 @@
+,Place,First,Last,City,,Age,Gender,GP,Time,Rank
+results,1,Matthew,Taylor,Dallas,TX,47,M,1,3:12:56,90.45
+results,2,Luke,Bateman,Dallas,TX,35,M,2,3:27:20,84.69
+results,3,Heath,Brosi,Euless,TX,40,M,3,3:37:08,94.92
+results,4,Sean,Meissner,Fruita,CO,48,M,4,3:37:11,85.69
+results,5,Brian,Ralston,Fort Worth,TX,42,M,5,3:42:44,82.55
+results,6,Tyler,Thorne,Sheppard AFB,TX,24,M,6,3:47:48,83.96
+results,7,Garren,Hill,COLLEYVILLE,TX,52,M,7,3:50:27,72.21
+results,8,Markdavid,Basco,Muenster,TX,34,M,8,3:57:09,74.43
+results,9,Mark,Seeley,Allen,TX,52,M,9,4:00:08,80.34
+results,10,Shaheen,Henderson,Heath,TX,37,F,1,4:05:39,94.57
+results,11,Matthew,Digges,Plano,TX,35,M,10,4:09:54,77.2
+results,12,Amy,Clark,Fort Worth,TX,45,F,2,4:20:09,79.41
+results,13,Johnny,Chen,Plano,TX,53,M,11,4:23:32,73.52
+results,14,Todd,Hawkins,Ponder,TX,57,M,12,4:24:58,55.85
+results,15,Alexei,Sleazin,Marshall,TX,40,M,13,4:32:03,70.92
+results,16,Jeffrey,Klapprodt,Fort Worth,TX,48,M,14,4:34:08,72.39
+results,17,Michael,Czarnik,McKinney,TX,56,M,15,4:37:28,69.53
+results,18,Erin,Macnabb,Keller,TX,38,F,3,4:42:44,80.05
+results,19,Sandra,Daust,Blairesville,GA,54,F,4,4:44:28,89.01
+results,20,Matt,Sapp,Lewisville,TX,38,M,16,4:45:11,67.65
+results,21,James,Ranspot,Dallas,TX,52,M,17,4:46:35,62.98
+results,22,Jeff,Sundblad,Dallas,TX,37,M,18,4:52:45,65.9
+results,23,John,Wigginton,keller,TX,61,M,19,4:54:51,67.49
+results,24,Steve,Verseckes,ROWLETT,TX,46,M,20,4:59:09,73.51
+results,25,Neil,Smith,Dallas,TX,50,M,21,5:00:16,74.56
+results,26,Clifton,Rotenberry,Grandview,TX,37,M,22,5:00:55,61.98
+results,27,Jack,Roe,Wichita Falls,TX,41,M,23,5:01:01,69.8
+results,28,John,Lai,Irving,TX,48,M,24,5:02:31,69.05
+results,29,Kirsten,Mast,Grapevine,TX,41,F,5,5:03:00,69.87
+results,30,Gabrielle,Koesel,Hartville,OH,22,F,6,5:03:31,76.81
+results,31,Justin,Acosta,Denton,TX,28,M,25,5:03:37,56.62
+results,32,Andrew,Marvin,Fort Worth,TX,30,M,26,5:06:36,64.23
+results,33,Beck,Pryor,Dallas,TX,34,F,7,5:07:37,72.99
+results,34,Alisa,Hardy,Crowley,TX,46,F,8,5:08:07,81.49
+results,35,Molly,Armstrong,fort worth,TX,43,F,9,5:08:43,79.57
+results,36,Todd,Sabo,Blairesville,GA,50,M,27,5:11:20,61.09
+results,37,Kristina,Siladi,Fruita,CO,37,F,10,5:15:02,77.68
+results,38,Joseph,Searcy,Anna,TX,34,M,28,5:19:28,68.78
+results,39,Troy,Pruett,Grapevine,TX,61,M,29,5:23:13,78.23
+results,40,Bill,Brown,Little Elm,TX,60,M,30,5:26:28,64.82
+results,41,Sarah,Loch-Test,Denton,TX,37,F,11,5:39:13,69.16
+results,42,Drew,Tucker,Flower Mound,TX,57,M,31,5:40:22,55.84
+results,43,Lynn,Grieger,Prescott,AZ,63,F,12,5:42:06,62.58
+results,44,Audi,Mendoza,Mesquite,TX,52,M,32,5:45:38,69.45
+results,45,Brent,Heady,Irving,TX,49,M,33,5:45:40,71.37
+results,46,Jocelyn,Riehl,Westminster,MD,36,F,13,5:50:29,78.83
+results,47,Paul,Jensen,Utopia,TX,78,M,34,5:52:30,64.12
+results,48,Kenneth,Posner,New York,NY,58,M,35,5:52:35,67.69
+results,49,Anna,Bugbee,Fort Worth,TX,63,F,14,5:53:15,70.09
+results,50,Diego,Bianco,Rockwall,TX,51,M,36,6:01:40,60.41
+results,51,Richard,Horton II,Fort Worth,TX,50,M,37,6:07:23,58.65
+results,52,Mike,Koeller,Pickering,ON,56,M,38,6:07:23,54.26
+results,53,Pamela,Kent,Sanger,TX,56,F,15,6:23:01,64.7
+results,54,Sasha,Williams,GAINESVILLE,TX,45,F,16,6:23:54,60.65
+results,55,Cathy,Turner,,,63,F,17,6:26:57,58.19
+results,56,Tom,Hosner,Argyle,TX,71,M,39,6:34:20,61.32
+results,57,Amanda,Oliver,FORT WORTH,TX,40,F,18,6:38:27,58.92
+results,58,Allyson,Chadwell,Saginaw,TX,48,F,19,6:38:27,58
+results,59,Bret,Wilson,Denton,TX,53,M,40,6:40:45,64.6
+results,60,David,Bernard,Forth Worth,TX,60,M,41,6:43:21,46.15
+results,61,Jennifer,Bernard,Ft. Worth,TX,59,F,20,6:43:21,60.67
+results,62,Susan,Rhodes,China Spring,TX,47,F,21,6:53:24,59.42
+results,63,Arizbe,Monsivais,Dallas,TX,47,F,22,7:00:10,60.47
+results,64,Rhett,Sagui,Keller,TX,45,M,42,7:04:24,51.19
+results,65,Gilbert,Gross,Midlothian,TX,62,M,43,7:06:48,49.25
+results,66,Jacqueline,Smith,Dallas,TX,53,F,23,7:18:16,60.35
+results,67,Anna,Kerr,Lewisville,TX,27,F,24,7:28:14,54.8
+results,68,Paul,Agruso,Plano,TX,42,M,44,7:34:01,57.2
+results,69,Angela,Tortorice,Dallas,TX,54,F,25,7:51:49,59.46
+results,70,Shelly,Mack,Lucien,OK,55,F,26,7:51:49,70.12
+results,71,Hank,Lopez,North Berwick,ME,61,M,45,7:51:50,41.08
