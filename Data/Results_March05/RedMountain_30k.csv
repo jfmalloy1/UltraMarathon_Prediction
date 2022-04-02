@@ -1,0 +1,83 @@
+Place,First,Last,City,,Age,Gender,GP,Time,Rank
+1,Denver,Blatter,Saratoga Springs,UT,26,M,1,2:24:17,100
+2,Daniel,Martin,Silver Spring,MD,32,M,2,2:28:48,92.61
+3,Adam,Greer,Saint George,UT,42,M,3,2:31:59,73.82
+4,Brian,Tolbert,Heber City,UT,40,M,4,2:33:32,86.56
+5,Adam,Hendrickson,Ogden,UT,26,M,5,2:37:09,93.83
+6,Amy,Machen,Ivins,UT,29,F,1,2:37:42,98.59
+7,Sandy,White,Millcreek,UT,46,M,6,2:38:38,85.4
+8,Jackie,Hendrickson,Ogden,UT,26,F,2,2:40:12,98.78
+9,Tiff,Schwartz,Salt Lake City,UT,34,F,3,2:51:30,87.04
+10,Thomas,Dansie,Hurricane,UT,45,M,7,2:52:09,76.31
+11,Jake,Durney,Stansbury Park,UT,28,M,8,2:52:44,82.26
+12,Derek,Storrs,Salt Lake City,UT,36,M,9,2:52:59,78.44
+13,Elyssa,Shalla,North Rim,AZ,39,F,4,3:04:44,91.92
+14,Sarah,Bush,Eagle Mountain,UT,39,F,5,3:05:05,81.34
+15,Benjamin,Yates,Provo,UT,26,M,10,3:11:06,75.5
+16,James,Perri,Provo,UT,59,M,11,3:11:40,71.63
+17,Elizabeth,Dansie,Hurricane,UT,43,F,6,3:14:04,86.88
+18,Graydon,Pearson,Lehi,UT,51,M,12,3:14:05,66.25
+19,Rebekah,Sweat,Eagle Mountain,UT,31,F,7,3:14:19,77.26
+20,Cody,Denter,South Jordan,UT,32,M,13,3:15:40,68.85
+21,Barry,Heywood,Saint George,UT,29,M,14,3:16:38,73.38
+22,Ashley,White,Millcreek,UT,41,F,8,3:18:01,86.11
+23,Randall,Norred,Las Vegas,NV,36,M,15,3:20:53,71.82
+24,Matthew,Heaps,Lehi,UT,49,M,16,3:21:04,71.32
+25,Ryan,Eggers,St George,UT,36,M,17,3:22:04,79.04
+26,Audra,Green,Missoula,MT,39,F,9,3:23:35,78.3
+27,Tyler,Shepherd,Salem,UT,45,M,18,3:25:04,71.72
+28,Brandon,Hays,Sandy,UT,28,M,19,3:26:37,69.83
+29,Bill,Hiatt,Orem,UT,50,M,20,3:28:31,74.71
+30,Melanie,Green,Loa,UT,46,F,10,3:29:37,75.23
+31,David,Green,Highland,UT,59,M,21,3:29:37,44.89
+32,Sam,Lundgren,Santa Clara,UT,36,M,22,3:40:49,67.1
+33,Jill,Heaps,Lehi,UT,48,F,11,3:41:02,71.35
+34,Brandie,Hoban,Stansbury Park,UT,43,F,12,3:45:01,87.96
+35,Tiffany,Whitelaw,St George,UT,34,F,13,3:45:24,65.31
+36,Abby,Polzin,Racine,WI,23,F,14,3:46:41,69.57
+37,Ryan,Israelsen,Saratoga Springs,UT,38,M,23,3:47:29,58.79
+38,Tim,Israelsen,North Logan,UT,41,M,24,3:47:30,57.42
+39,Rhonda,Brown,Rigby,ID,53,F,15,3:49:32,73.22
+40,Amy,Diiullo,Golden,CO,37,F,16,3:52:31,73.65
+41,Ciara,Robb,Santa Clara,UT,21,F,17,3:54:21,67.29
+42,Nicole,Gramstad,Cedar City,UT,24,F,18,3:55:55,69.92
+43,David,Monson,Hurricane,UT,35,M,25,3:57:42,60.7
+44,Seth,Gergetz,Santa Clara,UT,31,M,26,3:57:57,59.73
+45,Michael,Robbins,Draper,UT,35,M,27,4:02:36,61.16
+46,Kristen,Snow,Murray,UT,38,F,19,4:03:58,73.57
+47,Andrea,Martinez,Midvale,UT,43,F,20,4:03:59,71.1
+48,Stephanie,Gardner,Ogden,UT,38,F,21,4:04:15,72.73
+49,Emily,Ringel,St. George,UT,36,F,22,4:05:22,69.4
+50,Stephanie,Hughes,St George,UT,41,F,23,4:07:04,71.86
+51,Natalie,Staheli,Santaquin,UT,47,F,24,4:07:06,66.24
+52,Sara,Hodges,Syracuse,UT,39,F,25,4:07:23,67.99
+53,Tyler,Bixler,Springville,UT,30,M,28,4:08:18,58.11
+54,Lacy,Taylor,St George,UT,34,F,26,4:09:14,61.92
+55,Laurie,Marx,,,39,F,27,4:09:46,67.36
+56,Deb,Baker,West Jordan,UT,59,F,28,4:10:52,78.33
+57,Matthew,Dunstan,Las Vegas,NV,42,M,29,4:12:02,61.5
+58,Kristi,Barker,Washington,UT,43,F,29,4:12:20,63.5
+59,Hyrum,Rappleye,South Ogden,UT,38,M,30,4:12:41,69.34
+60,Joshua,Clason,Saint George,UT,29,M,31,4:13:44,56.86
+61,Lacey,Johnson,Salt Lake City,UT,36,F,30,4:22:26,68.85
+62,Bruce,Patrick,Springville,UT,61,M,32,4:25:26,46.6
+63,Kelcey,Stowell,Ogden,UT,56,F,31,4:25:27,62.65
+64,Kelly,Dockstader,St George,UT,69,M,33,4:31:20,49.74
+65,Gary,Culver,Mesquite,NV,69,M,34,4:34:14,67.53
+66,Robert,Suarez,Herriman,UT,56,M,35,4:35:44,50.35
+67,David,Paystrup,Saint George,UT,45,M,36,4:41:56,51.18
+68,Jason,Brady,Salt Lake City,UT,38,M,37,4:43:09,56.96
+69,Trevor,Williams,Riverton,UT,52,M,38,4:44:09,42.8
+70,Spencer,Olsen,Sandy,UT,63,M,39,4:48:57,59.52
+71,Tammy,Reynolds,Stansbury Park,UT,45,F,32,4:59:10,64.98
+72,Kelly,Strong,Claresholm,AB,66,M,40,4:59:19,46.38
+73,Tanya,Henrie,Cedar City,UT,41,F,33,5:03:12,54.22
+74,Melchora,Cedillo,Cedar,UT,55,F,34,5:03:13,59.17
+75,Maria,Bradley,Saint George,UT,41,F,35,5:11:06,75.31
+76,Greg,Mciff,Draper,UT,55,M,41,5:23:36,49.23
+77,David,Tanner,Eden,UT,62,M,42,5:39:22,47.29
+78,Jamie,Remkes,Ogden,UT,61,F,36,5:39:28,60.2
+79,Andrea,Mason,South Jordan,UT,39,F,37,5:41:27,46.19
+80,Jackie,Gracia,Salt Lake City,UT,39,F,38,5:41:28,46.18
+81,Paula,Aoki,Salt Lake City,UT,66,F,39,6:38:56,52.54
+82,Shirley,Wilson,Cedar City,UT,54,F,40,6:39:04,52.64
