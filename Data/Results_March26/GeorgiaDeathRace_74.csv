@@ -1,0 +1,132 @@
+Place,First,Last,City,,Age,Gender,GP,Time,Rank
+1,Brad,Orr,Greenville,SC,35,M,1,13:26:32,100
+2,Max,Tiemann,Durham,NC,35,M,2,13:58:27,93.3
+3,Miller,Groome,Asheville,NC,31,M,3,14:35:10,93.64
+4,Nathan,Renn,Flagstaff,AZ,42,M,4,14:46:09,90.17
+5,Daniel,Linkinhoker,Washington DC,DC,26,M,5,15:07:12,98.15
+6,Jonathan,Newton,Lawrenceville,GA,34,M,6,16:09:30,92.42
+7,Andrew,Harvey,Black mountain,NC,42,M,7,16:16:32,77.5
+8,Jason,Chidester,Dunwoody,GA,44,M,8,16:24:04,76.82
+9,Dom,Bubri,Wheat Ridge,CO,32,M,9,16:49:31,77.51
+10,David,Flynn,Atlanta,GA,41,M,10,17:20:55,86.55
+11,Joe,Dyer,Asheville,NC,40,M,11,17:28:48,80.18
+12,Max,Johnson,Brighton,MA,32,M,12,17:38:00,78.72
+13,Matt,Ross,Marietta,GA,40,M,13,17:41:17,67.71
+14,Jamie,Reichler,Parker,CO,53,M,14,17:41:24,79.29
+15,Andrew,Dabson,Nolensville,TN,30,M,15,17:42:03,81.53
+16,Christian,Christopoulos,Holly Springs,NC,30,M,16,17:43:27,80.43
+17,Matthew,Livingstone,Wynnewood,PA,41,M,17,17:44:24,85.39
+18,Amanda,Sullivan,Jackson,WY,36,F,1,17:45:33,91.95
+19,Paul,Hagan,Petoskey,MI,38,M,18,17:54:34,77.68
+20,Michael,Scogings,Peru,,57,M,19,17:54:54,72.05
+21,Ash,Walsh,,,35,F,2,18:01:43,85.74
+22,Amy,Macintire,Clarksville,TN,34,F,3,18:01:49,89.58
+23,Kyle,Kraeft,Tallahassee,FL,32,M,20,18:04:54,81.37
+24,Ryan,Garcia-Carroll,LaGrange,GA,40,M,21,18:13:36,78.43
+25,Michelle,Gray,Johnson City,TN,53,F,4,18:37:43,86.09
+26,Chris,Bain,Christiana,TN,42,M,22,18:59:48,70.27
+27,Paul,Prendeville,Dublin,OH,33,M,23,19:10:28,65.49
+28,Joseph,Koca,Sanford,NC,41,M,24,19:13:53,63.87
+29,Mark,Proch,Palmetto,FL,36,M,25,19:18:52,84.69
+30,Edwin,Brown,Two Harbors,MN,36,M,26,19:20:02,76.85
+31,Eddie,Posey,Easley,SC,50,M,27,19:20:22,85.72
+32,Rob,Richard,Little Falls,NY,45,M,28,19:35:38,77.8
+33,Ian,Foster,Springfield,VA,44,M,29,19:39:35,67.58
+34,John,French,Roswell,GA,58,M,30,19:45:53,78.51
+35,Scott,Stringer,Greenville,SC,34,M,31,19:50:55,70.72
+36,John,Bruno,Easley,SC,36,M,32,19:50:58,80.42
+37,Shawn,Erickson,Sutherlin,OR,54,M,33,20:16:48,70.39
+38,Michael,Wilson,Pennsauken,NJ,44,M,34,20:23:14,71.94
+39,Robert,Woodall,Sims,NC,44,M,35,20:23:25,74.04
+40,Paul,Reynolds,Westbrookville,NY,47,M,36,20:23:29,69.49
+41,Wendy,Mader,Marietta,GA,49,F,5,20:28:01,87.39
+42,Andrew,Suski,West Chester,OH,37,M,37,20:30:49,77.77
+43,Paul,Tilley,Galax,VA,40,M,38,20:34:13,79.46
+44,Robert,Tasselmyer,Galax,VA,45,M,39,20:34:18,87.1
+45,Chris,Blackburn,Independence,VA,39,M,40,20:34:21,72.62
+46,Brian,Hutchings,Commerce,GA,40,M,41,20:35:16,71.44
+47,Scott,Lee,Haymarket,VA,51,M,42,20:36:35,66.56
+48,Rich,Angell,Cleveland Heights,OH,48,M,43,20:42:29,67.34
+49,Paul,Cirillo,Mohawk,NY,46,M,44,20:48:44,73.61
+50,Jordan,Ricketts,Lakewood Ranch,FL,28,M,45,20:55:36,74.52
+51,Robert,Kraus,Bushnell,FL,37,M,46,21:01:16,71.82
+52,Jon,Foster,Ashburn,VA,36,M,47,21:01:45,61.25
+53,Tyler,Barrett,Twin Falls,ID,38,M,48,21:06:39,74.89
+54,Brad,Polnasek,Battle Creek,MI,35,M,49,21:08:22,77.5
+55,Leigh,Hoover,Ellijay,GA,39,F,6,21:08:57,78.79
+56,Andrey,Prihodko,Brooklyn,NY,48,M,50,21:12:32,63.45
+57,Zach,Greene,MARIETTA,GA,35,M,51,21:13:15,69.86
+58,Bob,Law,Mantua,NJ,53,M,52,21:18:01,65.41
+59,Brandon,Tyson,Johns creek,GA,34,M,53,21:20:13,68.29
+60,Tony,Townsell,Manitou,KY,46,M,54,21:20:16,75.63
+61,Matt,Walker,Cumming,GA,40,M,55,21:21:45,78.21
+62,Davis,Bortis,Tulsa,OK,35,M,56,21:37:25,72.96
+63,Julia,Lipeles,Mickleton,NJ,47,F,7,21:39:32,76.69
+64,Bradley,Parker,Wake Forest,NC,33,M,57,21:42:51,61.81
+65,Brad,Shirley,Greensburg,PA,42,M,58,21:42:57,61.01
+66,Brad,Berg,Macon,GA,32,M,59,21:44:03,81.89
+67,Clint,Johnson,Alpharetta,GA,46,M,60,21:45:55,70.5
+68,Michael,James,Carrboro,NC,34,M,61,21:52:47,66.08
+69,Joshua,Gray,New Smyrna Beach,FL,42,M,62,21:57:46,80.26
+70,David,Day,Sugar Hill,GA,47,M,63,22:01:30,61.02
+71,Chris,Favro,Marietta,GA,51,M,64,22:01:33,74.56
+72,Jack,Wilson,Harpswell,ME,53,M,65,22:08:04,76.05
+73,Brent,Brownlee,Peachtree City,GA,41,M,66,22:08:07,65.1
+74,David,Bushroe,Bellbrook,OH,57,M,67,22:08:10,63.31
+75,Joanna,Mrowka,Brooklyn,NY,48,F,8,22:09:57,81.33
+76,Marcin,Mrowka,Brooklyn,NY,52,M,68,22:10:01,74.85
+77,Maxx,Merlino,Wolverine Lake,MI,24,M,69,22:14:15,68.29
+78,James,Clark,Bremerton,WA,48,M,70,22:16:49,63.79
+79,Jen,Even,Dubuque,IA,37,F,9,22:16:52,88.3
+80,Hunter,White,GROVETOWN,GA,24,M,71,22:23:14,75.15
+81,Joel,Calloway,Tarawa Terrace,NC,32,M,72,22:23:27,62.18
+82,Joy,Shumway,Sheridan,WY,30,F,10,22:24:10,86.82
+83,Helcia,Bratko,Independence,OH,52,F,11,22:26:59,81.38
+84,Ivars,Ragainis,Alpharetta,GA,41,M,73,22:29:11,64.27
+85,Jamie,Oney,Grayson,KY,46,M,74,22:31:23,59.69
+86,Jack,Martin,Ft Benning,GA,27,M,75,22:35:48,59.15
+87,Daniel,Mullen,Pearland,TX,43,M,76,22:36:11,69.99
+88,Colin,Burns,Reno,NV,28,M,77,22:37:27,67.85
+89,Anthony,Romano,Millsboro,DE,37,M,78,22:38:00,73.99
+90,David,Booher,Goshen,OH,45,M,79,22:39:38,66.25
+91,Jonathan,Davis,Greensboro,NC,44,M,80,22:48:59,68
+92,Wesley,Reagan,Sugar Hill,GA,41,M,81,22:52:23,63.06
+93,James,Meuleners,Ogden,UT,34,M,82,22:53:48,73.49
+94,Noah,Embrey,Las Vegas,NV,33,M,83,22:53:51,69.83
+95,Jamie,Case,Waxhaw,NC,46,M,84,22:58:09,66.98
+96,Lee,Beall,Acworth,GA,40,M,85,22:59:40,60.31
+97,Byrne,Bacwaden,Mountain Province,,48,M,86,22:59:55,59.21
+98,John,Diblasi,Miami,FL,37,M,87,23:07:55,58.11
+99,Keith,Empie,Cartersville,GA,38,M,88,23:09:47,70.88
+100,David,Marino,Suwanee,GA,42,M,89,23:12:04,63.15
+101,Jennifer,Hawkins,Concord,GA,40,F,12,23:12:12,75.71
+102,Eric,Kough,Chesapeake,VA,46,M,90,23:12:14,66.15
+103,Tim,Kowtko,Roanoke,VA,42,M,91,23:12:17,58.82
+104,James,Daresta,Acworth,GA,50,M,92,23:16:22,65.96
+105,Trey,Thompson,Lawrenceville,GA,42,M,93,23:18:45,63.01
+106,John,Becker,Palm Beach Gardens,FL,51,M,94,23:22:16,67.42
+107,Victoria,Mitchell,Chattanooga,TN,59,F,13,23:22:21,78.69
+108,Jim,Schneiderman,Cary,NC,47,M,95,23:22:25,71.9
+109,Caleb,Linn,Raleigh,NC,41,M,96,23:23:46,63.37
+110,Josh,Huntley,Mohawk,NY,41,M,97,23:31:27,58.21
+111,Vaclav,Chaloupka,Hendersonville,NC,30,M,98,23:33:40,58.82
+112,Taylor,Ross,Des Moines,IA,32,M,99,23:33:42,77.46
+113,Carey,Allen,Fuquay Varina,NC,42,M,100,23:40:19,62.96
+114,Hunter,Odom,Dawson,GA,41,M,101,23:40:22,63.34
+115,Shane,Johnson,Marblehill,GA,43,M,102,23:41:26,57.11
+116,Kenneth,Laufer,Toms River,NJ,52,M,103,23:50:55,61.78
+117,Sam,Church,Cumming,GA,23,M,104,23:51:38,61.09
+118,Jeff,Dean,Charlotte,NC,43,M,105,23:54:36,80.52
+119,John,Larson,Divernon,IL,41,M,106,23:59:47,64.64
+120,Demarion,Farmer,Durham,NC,33,M,107,23:59:51,60.56
+121,Derek,Eccles,Twin falls,ID,41,M,108,24:05:13,58.48
+122,Michael,Pucci,Ball Ground,GA,35,M,109,24:08:29,79.66
+123,Jennifer,Parrish,Lake Stevens,WA,49,F,14,24:11:23,73.12
+124,Scott,Kurtz,Fairborn,OH,43,M,110,24:12:47,60
+125,Greg,Lindley,Rogers,AR,48,M,111,24:21:16,70.65
+126,Angie,Smallwood,Rogers,AR,46,F,15,24:21:30,68.79
+127,Shaun,Pothin,Nashville,TN,36,M,112,24:24:12,55.92
+128,Debra,Mckenzie,Niceville,FL,52,F,16,24:24:47,82.37
+129,Arabelle,Romeo,Canton,GA,51,F,17,24:25:06,72.27
+130,Trevor,Hoadley,Loxahatchee,FL,44,M,113,24:37:18,54.6
+131,Taylor,Hankins,Brandon,MS,39,M,114,24:38:41,60.07

@@ -3,6 +3,7 @@ import os
 from datetime import timedelta
 from torch.utils.data import random_split
 from torch.utils.data import DataLoader
+from tqdm import tqdm
 
 
 def remove_GSheets_labels(months):
@@ -33,8 +34,10 @@ def merge(months):
     ### Created one merged dataframe of all targets + results, merged on First & Last name for each race
     merged_df = pd.DataFrame()
     for month in months:
-        for race in os.listdir("Data/Targets_" + month):
+        print(month)
+        for race in tqdm(os.listdir("Data/Targets_" + month)):
             if race.endswith(".csv"):
+                #print(race)
                 target_df = pd.read_csv("Data/Targets_" + month + "/" + race)
                 results_df = pd.read_csv("Data/Results_" + month + "/" + race)
 
@@ -63,11 +66,11 @@ def clean_data():
         calculates the seconds elapsed for both target and result data
     """
     #Remove " - Sheet1" from specific months - should only be run once
-    months = ["March05", "March12", "March19"]
+    months = ["March05", "March12", "March19", "March26"]
     #remove_GSheets_labels(months)
 
     ### Merge targets & results dataframe - should only be run once
-    # merge(months)
+    merge(months)
 
     #Change HH:MM:SS finish times to seconds
     df = pd.read_csv("Data/fullRaceData.csv")
@@ -88,15 +91,15 @@ def split(df, percent_train):
 
 def main():
     ### Clean data - should only be needed once
-    #clean_data()
+    clean_data()
 
-    df = pd.read_csv("Data/fullRaceData.csv")
+    # df = pd.read_csv("Data/fullRaceData.csv")
 
-    train, test = split(df, 0.33)
+    # train, test = split(df, 0.33)
 
-    #Prepare data loaders
-    train_dl = DataLoader(train, batch_size=32, shuffle=True)
-    test_dl = DataLoader(test, batch_size=1024, shuffle=False)
+    # #Prepare data loaders
+    # train_dl = DataLoader(train, batch_size=32, shuffle=True)
+    # test_dl = DataLoader(test, batch_size=1024, shuffle=False)
 
     # # train the model
     # for i, (inputs, targets) in enumerate(train_dl):

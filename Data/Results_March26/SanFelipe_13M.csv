@@ -1,0 +1,101 @@
+Place,First,Last,City,,Age,Gender,GP,Time,Rank
+1,Michael,Cook,Houston,TX,29,M,1,1:36:10,89.27
+2,Niels,Vuijsters,Golden,CO,46,M,2,1:42:02,86.26
+3,Taylor,Buzan,HOUSTON,TX,34,M,3,1:42:14,88.9
+4,Casey,Timme,,,36,F,1,1:43:05,97.31
+5,Danielle,Dobecka,Sugar land,TX,32,F,2,1:48:47,94.77
+6,Billy,Donnelly,,,51,M,4,1:49:32,96.24
+7,Kerri,McCurdy,Katy,TX,44,F,3,1:51:03,91.66
+8,Dalton,Robison,Austin,TX,28,M,5,1:51:36,81.1
+9,Alison,Vuijsters,Golden,CO,45,F,4,1:52:07,81.45
+10,Peter,Boettcher,Houston,TX,31,M,6,1:52:22,85.59
+11,Kristi,Gill,,,41,F,5,1:55:03,81.42
+12,Randy,Olsen,Pearland,TX,48,M,7,1:58:25,77.21
+13,Michael,Sigmund,Cypress,TX,39,M,8,1:59:38,69.61
+14,Cory,Grosklags,Katy,TX,45,M,9,2:00:09,80.74
+15,Leo,Denslow,Lone Tree,CO,51,M,10,2:00:21,79.91
+16,Usman,Oladipupo,Grand Prairie,TX,27,M,11,2:01:29,81.49
+17,Daniel,Sanders,Katy,TX,39,M,12,2:02:21,80.75
+18,Matthew,Mussalli,The Woodlands,TX,50,M,13,2:02:44,84.44
+19,Douglas,Dawson,Mont Belvieu,TX,44,M,14,2:02:46,81.24
+20,Terry,Nichols,Rosenberg,TX,35,M,15,2:05:19,76.75
+21,Gautham S,Pai,Houston,TX,38,M,16,2:05:23,76.7
+22,Lee,Glaesemann,Katy,TX,52,M,17,2:05:44,77.42
+23,Gaylord,Lamy,Austin,TX,42,M,18,2:06:01,76.32
+24,Heather,Ziembo,Katy,TX,35,F,6,2:06:17,76.02
+25,Patrick,Fleming,Houston,TX,55,M,19,2:07:32,58.96
+26,Aaron,Tackett,Kingwood,TX,50,M,20,2:07:59,74.87
+27,Robert,Ruiz,Pearland,TX,47,M,21,2:09:54,75.96
+28,Glenda,Escobar,Houston,TX,23,F,7,2:10:05,80.42
+29,Benjamin,Graham,Houston,TX,39,M,22,2:10:42,76.29
+30,Christine,Jacobs,Missouri City,TX,45,F,8,2:12:25,75.47
+31,Courtney,Johnson,Austin,TX,33,F,9,2:13:20,72.26
+32,Mehreen,Ansari,Katy,TX,42,F,10,2:13:29,77.23
+33,Michael,Person,Sealy,TX,59,M,23,2:16:37,70.4
+34,James,Moore,Richmond,TX,34,M,24,2:17:14,71.91
+35,Jess,Hamilton,Richmond Tx,TX,40,F,11,2:19:15,71.98
+36,Franziska,Inman,Houston,TX,51,F,12,2:19:54,73.4
+37,Charlie,Avis,Houston,TX,71,M,25,2:19:58,64.87
+38,Francesca,Faulk,Freeport,TX,34,F,13,2:23:46,69.12
+39,Alison,Pain,Cypress,TX,31,F,14,2:24:58,71.11
+40,Christina,Pierce,Magnolia,TX,44,F,15,2:25:11,74.39
+41,Tres,Boyd,Katy,TX,50,M,26,2:27:11,65.34
+42,Lindsey,Rutherford,Houston,TX,38,F,16,2:27:18,72.3
+43,Lydia,Schrandt,Houston,TX,37,F,17,2:29:31,72.29
+44,Matthew,May,Katy,TX,44,M,27,2:30:33,63.88
+45,Amy,Dalke,Richmond,TX,44,F,18,2:31:06,70.08
+46,Melissa,Benjamin,Katy,TX,42,F,19,2:31:11,69.25
+47,Denise,Sadberry,Katy,TX,55,F,20,2:31:16,70.15
+48,Emma,Herbertson,Richmond,TX,39,F,21,2:31:45,68.29
+49,Sagrario,Baca,,,31,F,22,2:32:02,69.18
+50,Wes,Hines,Richmond,TX,55,M,28,2:32:58,60.75
+51,Matthew,Dobbs,Houston,TX,21,M,29,2:34:49,66.81
+52,Josh,Dobbs,Houston,TX,23,M,30,2:34:52,64.3
+53,Doug,Kennedy,Nacogdoches,TX,56,M,31,2:35:45,64.63
+54,Jennifer,Lopez,Needville,TX,41,F,23,2:38:40,64.97
+55,Brandon,Durio,Houston,TX,34,M,32,2:38:53,72.36
+56,Christie,Cryer,Spring,TX,40,F,24,2:39:15,57.72
+57,Amanda,Kelly,Magnolia,TX,49,F,25,2:40:07,64.18
+58,Dayana,Sprano,Mont Belvieu,TX,44,F,26,2:42:08,62.55
+59,Abagail,Grosklags,Katy,TX,20,F,27,2:42:33,69.1
+60,Janice,Rath,Cypress,TX,35,F,28,2:43:05,64.01
+61,Gurusom,Rath,Cypress,TX,44,M,33,2:43:10,58.94
+62,Buddy,Howlett,Vidor,TX,63,M,34,2:44:11,66.23
+63,Luis,Aceves,Richmond,TX,40,M,35,2:44:33,64.36
+64,Steve,German,Lubbock,TX,64,M,36,2:48:21,52.86
+65,Georgia,Polley,Houston,TX,47,F,29,2:49:05,65.73
+66,Elizabeth,Smith,Houston,TX,45,F,30,2:50:00,62.84
+67,Eileen,Louvier,Houston,TX,43,F,31,2:50:07,63.37
+68,Stephanie,Jenkins,Freeport,TX,44,F,32,2:50:32,60.45
+69,Meaghan,Gorman-Maupin,Houston,TX,34,F,33,2:52:26,62.13
+70,Jessica,Swanner,Houston,TX,32,F,34,2:54:02,59.23
+71,Andrea,Sidel,Houston,TX,32,F,35,2:54:05,59.21
+72,Mariam,Said,Houston,TX,31,F,36,2:54:07,59.2
+73,Rod,Lytle,Seguin,TX,54,M,37,2:55:03,57.04
+74,Lisa,Carter,New Braunfels,TX,52,F,37,2:55:12,65.86
+75,Mary Kay,Cooper,San Antonio,TX,51,F,38,2:55:31,59.93
+76,Ron,Beiswanger,Frisco,TX,42,M,38,2:57:03,59.71
+77,Tonda,Sallee,San Antonio,TX,51,F,39,2:58:13,57.45
+78,Isabelle,Kurzava,Spring,TX,61,F,40,2:58:49,62.79
+79,Kimberly,Pilcher,The Woodlands,TX,58,F,41,3:00:27,68.42
+80,Faith,Akioyamen,Katy,TX,33,F,42,3:02:52,58.28
+81,Sheryl,Crump,San Antonio,TX,49,F,43,3:03:39,55.62
+82,Michael,Swanson,Katy,TX,39,M,39,3:03:52,60.41
+83,Patrick,Mies II,Houston,TX,42,M,40,3:07:24,61.02
+84,Dave,Ferry,katy,TX,67,M,41,3:08:49,57.98
+85,Brian,Compton,Houston,TX,49,M,42,3:08:53,51.45
+86,Drew,Richards,Bay City,TX,55,M,43,3:11:52,50.82
+87,Lorrie,Sigford,Buffalo,TX,45,F,44,3:12:21,58.57
+88,Chip,Reynolds,Killeen,TX,51,M,44,3:13:02,64.38
+89,Lori,Kennedy,Nacogdoches,TX,51,F,45,3:13:44,66.44
+90,Curt,Ryan,Houston,TX,49,M,45,3:16:59,49.78
+91,Rachel,Saavedra,Pearsall,TX,46,F,46,3:17:27,59.3
+92,Thomas,Martinez,San Antonio,TX,53,M,46,3:24:29,52.05
+93,Mj,Castillo,San Antonio,TX,50,F,47,3:32:54,52.23
+94,Leslie,Capilla,Houston,TX,42,F,48,3:37:46,49.53
+95,Andrea,Rinosa,Houston,TX,51,F,49,3:39:20,58.71
+96,Jennifer,Woollen,Katy,TX,52,F,50,3:42:46,48.39
+97,Fausto,Mosca,Humble,TX,62,M,47,3:43:22,51.77
+98,Michael,Murphy,,,47,F,51,3:48:31,49.67
+99,Paul,Szendrey,Georgetown,TX,55,M,48,3:57:44,51.71
+100,Yamilette,Burgos,Killeen,TX,32,F,52,4:33:28,46.02
