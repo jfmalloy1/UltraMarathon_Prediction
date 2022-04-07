@@ -6,40 +6,40 @@ from torch.utils.data import DataLoader
 from tqdm import tqdm
 
 
-def remove_GSheets_labels(months):
+def remove_GSheets_labels(weeks):
     """ Removes the annoying " - Sheet1" file extension given through GSheets
 
     Args:
-        months (list): list of all months to be included in data cleaning
+        weeks (list): list of all weeks to be included in data cleaning
     """
-    for month in months:
+    for week in weeks:
         #Targets
-        targets = os.listdir("Data/Targets_" + month)
+        targets = os.listdir("Data/Targets_" + week)
         for race in targets:
-            os.rename("Data/Targets_" + month + "/" + race,
-                      "Data/Targets_" + month + "/" + race[:-13] + ".csv")
+            os.rename("Data/Targets_" + week + "/" + race,
+                      "Data/Targets_" + week + "/" + race[:-13] + ".csv")
         #Results
-        results = os.listdir("Data/Results_" + month)
+        results = os.listdir("Data/Results_" + week)
         for race in results:
-            os.rename("Data/Results_" + month + "/" + race,
-                      "Data/Results_" + month + "/" + race[:-13] + ".csv")
+            os.rename("Data/Results_" + week + "/" + race,
+                      "Data/Results_" + week + "/" + race[:-13] + ".csv")
 
 
-def merge(months):
+def merge(weeks):
     """ Merges target & results dataframes into one dataframe based on names
 
     Args:
-        months (list): months (well, technically weekends) to merge
+        weeks (list): weeks (well, technically weekends) to merge
     """
     ### Created one merged dataframe of all targets + results, merged on First & Last name for each race
     merged_df = pd.DataFrame()
-    for month in months:
-        print(month)
-        for race in tqdm(os.listdir("Data/Targets_" + month)):
+    for week in weeks:
+        print(week)
+        for race in tqdm(os.listdir("Data/Targets_" + week)):
             if race.endswith(".csv"):
                 #print(race)
-                target_df = pd.read_csv("Data/Targets_" + month + "/" + race)
-                results_df = pd.read_csv("Data/Results_" + month + "/" + race)
+                target_df = pd.read_csv("Data/Targets_" + week + "/" + race)
+                results_df = pd.read_csv("Data/Results_" + week + "/" + race)
 
                 merged_df = merged_df.append(
                     pd.merge(target_df, results_df, on=["First", "Last"]))
@@ -61,16 +61,13 @@ def get_seconds(t):
     return d.seconds
 
 
-def clean_data():
+def clean_data(weeks):
     """ Takes separate target & result data, merges it, and 
         calculates the seconds elapsed for both target and result data
     """
-    #Remove " - Sheet1" from specific months - should only be run once
-    months = ["March05", "March12", "March19", "March26"]
-    #remove_GSheets_labels(months)
 
     ### Merge targets & results dataframe - should only be run once
-    merge(months)
+    merge(weeks)
 
     #Change HH:MM:SS finish times to seconds
     df = pd.read_csv("Data/fullRaceData.csv")
@@ -90,8 +87,13 @@ def split(df, percent_train):
 
 
 def main():
-    ### Clean data - should only be needed once
-    clean_data()
+    #Remove " - Sheet1" from specific weeks - ###NOTE: should only be run once per file
+    weeks = ["April09"]
+    remove_GSheets_labels(weeks)
+
+    ### Clean data - should only be needed once every time a new week is added
+    weeks = ["March05", "March12", "March19", "March26", "April09"]
+    clean_data(weeks)
 
     # df = pd.read_csv("Data/fullRaceData.csv")
 
