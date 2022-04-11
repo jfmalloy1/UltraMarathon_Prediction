@@ -1,8 +1,16 @@
 import pandas as pd
 import os
 from datetime import timedelta
-from torch.utils.data import random_split
+from torch.utils.data import Dataset
 from torch.utils.data import DataLoader
+from torch.utils.data import random_split
+from torch import Tensor
+from torch.nn import Linear
+from torch.nn import Sigmoid
+from torch.nn import Module
+from torch.optim import SGD
+from torch.nn import MSELoss
+from torch.nn.init import xavier_uniform_
 from tqdm import tqdm
 
 
@@ -86,22 +94,79 @@ def split(df, percent_train):
     return random_split(df, [train_size, test_size])
 
 
+# model definition
+class MLP(Module):
+    """ 
+    Defines the NN model - in this case, there are 3 hidden layers,
+    8 inputs (defined by data) in the 1st, 6 inputs in the second, 
+    and 6 in the 3rd (with 1 output). The first two are activated by a sigmoid function,
+    weighted by a xavier initalization scheme.
+
+    """
+
+    # define model elements
+    def __init__(self, n_inputs):
+        super(MLP, self).__init__()
+        # input to first hidden layer
+        self.hidden1 = Linear(n_inputs, n_inputs)
+        xavier_uniform_(self.hidden1.weight)
+        self.act1 = Sigmoid()
+        # second hidden layer
+        self.hidden2 = Linear(n_inputs, n_inputs - 2)
+        xavier_uniform_(self.hidden2.weight)
+        self.act2 = Sigmoid()
+        # third hidden layer and output (this is new!)
+        self.hidden3 = Linear(n_inputs - 2, n_inputs - 3)
+        xavier_uniform_(self.hidden3.weight)
+        self.act3 = Sigmoid()
+        # fourth hidden layer
+        self.hidden4 = Linear(n_inputs - 3, 1)
+        xavier_uniform_(self.hidden4.weight)
+
+    # forward propagate input
+    def forward(self, X):
+        # input to first hidden layer
+        X = self.hidden1(X)
+        X = self.act1(X)
+        # second hidden layer
+        X = self.hidden2(X)
+        X = self.act2(X)
+        #third hidden layer
+        X = self.hidden3(X)
+        X = self.act3(X)
+        # third hidden layer and output
+        X = self.hidden4(X)
+        return X
+
+
 def main():
-    #Remove " - Sheet1" from specific weeks - ###NOTE: should only be run once per file
-    weeks = ["April09"]
-    remove_GSheets_labels(weeks)
+    # #Remove " - Sheet1" from specific weeks - ###NOTE: should only be run once per file
+    # weeks = ["April09"]
+    # remove_GSheets_labels(weeks)
 
-    ### Clean data - should only be needed once every time a new week is added
-    weeks = ["March05", "March12", "March19", "March26", "April09"]
-    clean_data(weeks)
+    # ### Clean data - should only be needed once every time a new week is added
+    # weeks = ["March05", "March12", "March19", "March26", "April09"]
+    # clean_data(weeks)
 
-    # df = pd.read_csv("Data/fullRaceData.csv")
+    df = pd.read_csv("Data/fullRaceData.csv",
+                     usecols=[
+                         "Rank_x", "Age Rank", "Results", "Finishes", "Age_y",
+                         "GP", "Rank_y", "Target_Seconds", "Time_Seconds"
+                     ])
 
-    # train, test = split(df, 0.33)
+    #Make sure data is only numbers
+    df["Rank_x"] = df["Rank_x"].str[:-1]
+    df["Age Rank"] = df["Age Rank"].str[:-1]
+    df = df.apply(pd.to_numeric)
 
-    # #Prepare data loaders
-    # train_dl = DataLoader(train, batch_size=32, shuffle=True)
-    # test_dl = DataLoader(test, batch_size=1024, shuffle=False)
+    train, test = split(df, 0.33)
+
+    #Prepare data loaders
+    train_dl = DataLoader(train, batch_size=32, shuffle=True)
+    test_dl = DataLoader(test, batch_size=1024, shuffle=False)
+
+    #Define the NN
+    model = MLP(8)
 
     # # train the model
     # for i, (inputs, targets) in enumerate(train_dl):

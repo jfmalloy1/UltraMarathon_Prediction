@@ -35,6 +35,7 @@ class CSVDataset(Dataset):
     def __init__(self, path):
         # load the csv file as a dataframe
         df = read_csv(path, header=None)
+        print(df.head())
         # store the inputs and outputs
         self.X = df.values[:, :-1].astype('float32')
         self.y = df.values[:, -1].astype('float32')
