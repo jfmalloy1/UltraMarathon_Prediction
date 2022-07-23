@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 from datetime import timedelta
+from numpy import vstack
 from torch.utils.data import Dataset
 from torch.utils.data import DataLoader
 from torch.utils.data import random_split
@@ -11,7 +12,10 @@ from torch.nn import Module
 from torch.optim import SGD
 from torch.nn import MSELoss
 from torch.nn.init import xavier_uniform_
+from torch import from_numpy
 from tqdm import tqdm
+from sklearn.metrics import mean_squared_error
+import numpy as np
 
 
 def remove_GSheets_labels(weeks):
@@ -94,6 +98,53 @@ def split(df, percent_train):
     return random_split(df, [train_size, test_size])
 
 
+class Data(Dataset):
+    """ Loads dataset (in "Data/fullRaceData.csv) & properly converts time data into seconds
+
+    Args:
+        Dataset (pytorch Dataset)
+    """
+
+    def __init__(self):
+        #Read in dataframe
+        df = pd.read_csv("Data/fullRaceData.csv",
+                         usecols=[
+                             "Rank_x", "Age Rank", "Results", "Finishes",
+                             "Age_y", "GP", "Rank_y", "Target_Seconds",
+                             "Time_Seconds"
+                         ])
+
+        #Make sure data is only numbers
+        df["Rank_x"] = df["Rank_x"].str[:-1]
+        df["Age Rank"] = df["Age Rank"].str[:-1]
+        df = df.apply(pd.to_numeric, errors='coerce')
+        print(df.dtypes)
+        df = df.astype(float)
+        print(df.dtypes)
+
+        # self.X = [df["Rank_x"], df["Age Rank"], df["Results"], df["Finishes"], df["Age_y"],
+        #                  df["GP"], df["Rank_y"], df["Target_Seconds"]]
+        # self.y = df["Time_Seconds"]
+        self.X = df.values[:, :-1]  #All except last column
+        self.y = df.values[:, -1]  #Last column (Target_Seconds)
+
+    # number of rows in the dataset
+    def __len__(self):
+        return len(self.X)
+
+    # get a row at an index
+    def __getitem__(self, idx):
+        return [self.X[idx], self.y[idx]]
+
+    # get indexes for train and test rows
+    def get_splits(self, n_test=0.25):  #Using 25% for now
+        # determine sizes
+        test_size = round(n_test * len(self.X))
+        train_size = len(self.X) - test_size
+        # calculate the split
+        return random_split(self, [train_size, test_size])
+
+
 # model definition
 class MLP(Module):
     """ 
@@ -139,6 +190,52 @@ class MLP(Module):
         return X
 
 
+# train the model - taken directly from machinelearningmastery.com
+def train_model(train_dl, model):
+    # define the optimization
+    criterion = MSELoss()
+    optimizer = SGD(model.parameters(), lr=0.01, momentum=0.9)
+    # enumerate epochs
+    for epoch in range(100):
+        # enumerate mini batches
+        for i, (inputs, targets) in enumerate(train_dl):
+            # clear the gradients
+            optimizer.zero_grad()
+            # compute the model output
+            yhat = model(inputs.float())
+            targets = targets.unsqueeze(1)
+            targets = targets.float()
+            # calculate loss
+            loss = criterion(yhat, targets)
+            # credit assignment
+            loss.backward()
+            # update model weights
+            optimizer.step()
+
+
+# evaluate the model  - taken directly from machinelearningmastery.com
+def evaluate_model(test_dl, model):
+    predictions, actuals = list(), list()
+    for i, (inputs, targets) in enumerate(test_dl):
+        # evaluate the model on the test set
+        yhat = model(inputs.float())
+        print(yhat)
+        # retrieve numpy array
+        yhat = yhat.detach().numpy()
+        actual = targets.numpy()
+        actual = actual.reshape((len(actual), 1))
+        # store
+        predictions.append(yhat)
+        actuals.append(actual)
+
+    # print(predictions)
+    # print(actuals)
+    predictions, actuals = vstack(predictions), vstack(actuals)
+    # calculate mse
+    mse = mean_squared_error(actuals, predictions)
+    return mse
+
+
 def main():
     # #Remove " - Sheet1" from specific weeks - ###NOTE: should only be run once per file
     # weeks = ["April09"]
@@ -148,29 +245,32 @@ def main():
     # weeks = ["March05", "March12", "March19", "March26", "April09"]
     # clean_data(weeks)
 
-    df = pd.read_csv("Data/fullRaceData.csv",
-                     usecols=[
-                         "Rank_x", "Age Rank", "Results", "Finishes", "Age_y",
-                         "GP", "Rank_y", "Target_Seconds", "Time_Seconds"
-                     ])
+    dataset = Data()
 
-    #Make sure data is only numbers
-    df["Rank_x"] = df["Rank_x"].str[:-1]
-    df["Age Rank"] = df["Age Rank"].str[:-1]
-    df = df.apply(pd.to_numeric)
+    train, test = dataset.get_splits()
+    print(type(train))
+    # train = from_numpy(train), float()
+    # test = from_numpy(test), float()
+    print("\n------ Training ----- ")
+    print(train)
 
-    train, test = split(df, 0.33)
+    print("\n------ Test ----- ")
+    print(test)
 
     #Prepare data loaders
     train_dl = DataLoader(train, batch_size=32, shuffle=True)
+    print(train_dl)
+
     test_dl = DataLoader(test, batch_size=1024, shuffle=False)
 
     #Define the NN
     model = MLP(8)
 
-    # # train the model
-    # for i, (inputs, targets) in enumerate(train_dl):
-    #     print(i)
+    # train the model
+    train_model(train_dl, model)
+    # evaluate the model
+    acc = evaluate_model(test_dl, model)
+    print('Accuracy: %.3f' % acc)
 
 
 if __name__ == "__main__":
