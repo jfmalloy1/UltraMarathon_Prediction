@@ -1,0 +1,82 @@
+Place,First,Last,City,,Age,Gender,GP,Time,Rank
+1,Lee,Whitaker,Fort Mill,SC,48,M,1,2:50:02,83.46
+2,Jeffrey,Chen,Nashville,TN,26,M,2,2:53:10,93.51
+3,Brian,Pickett,Kingsport,TN,42,M,3,2:57:49,91.4
+4,Matthew,Grice,Blacksburg,VA,38,M,4,3:05:55,91.86
+5,Brooke,Kowalski,Nashville,TN,25,F,1,3:14:46,96.1
+6,Maryann,Furey,Charlotte,NC,40,F,2,3:18:34,98.09
+7,Alexis,Eldridge,Johnson city,VA,27,F,3,3:25:46,85.68
+8,Joe,McClernon,Durham,NC,52,M,5,3:30:33,72.69
+9,Leah,Lanier,Charlotte,NC,48,F,4,3:33:09,88.11
+10,Benjamin,Kelpin,Fletcher,NC,45,M,6,3:34:25,79.3
+11,Brian,Stull,Durham,NC,50,M,7,3:35:37,76.19
+12,Patrick,Furey,Charlotte,NC,38,M,8,3:36:49,73.21
+13,Matthew,Nuar,Chattanooga,TN,38,M,9,3:45:01,69.24
+14,Joseph,Nah,Gaithersburg,MD,50,M,10,3:46:41,64.17
+15,Michael,Sperle,Sun Prairie,WI,45,M,11,3:46:53,69.39
+16,Shannon,Webb,Sun Prairie,WI,48,F,5,3:46:54,90.62
+17,Jeannette,Pantani,Charlotte,NC,53,F,6,3:49:36,74.53
+18,Trevor,Miller,Ashburn,VA,20,M,12,3:50:04,73.91
+19,Horatiu,Dancea,Roanoke,VA,49,M,13,3:56:20,71.95
+20,Jay,Nevans,Knoxville,TN,52,M,14,3:57:57,71.46
+21,Janine,Myatt,Bristol,VA,54,F,7,3:59:35,77.89
+22,Jordan,McGinnis,Seymour,TN,28,M,15,4:01:16,78.44
+23,Stephanie,Ward,Charlotte,NC,52,F,8,4:06:19,81.05
+24,Ansley,Cockerham,Charlotte,NC,34,F,9,4:07:56,71.75
+25,Steve,Marx,Prospect,KY,52,M,16,4:23:37,64.5
+26,Andrew,Moroz,Lynchburg,VA,35,M,17,4:24:19,64.33
+27,Kelli,Stone,New Tazewell,KY,59,F,10,4:26:57,77.52
+28,Kristy,Berry,Middlesboro,KY,37,F,11,4:26:58,75.19
+29,Donna,Wheeler,CEDAR BLUFF,VA,57,F,12,4:29:32,69.28
+30,Dan,Henry,Chattanooga,TN,45,M,18,4:30:55,74.18
+31,Jason,Gregg,Charlotte,NC,39,M,19,4:31:00,61.36
+32,Sara,Harmon,Kernersville,NC,39,F,13,4:32:54,86.06
+33,Heather,Steele,Morrisville,NC,33,F,14,4:32:56,69.48
+34,Kristen,Bergeson,Madison,AL,40,F,15,4:39:18,69.73
+35,Margaret,Everett,Woodbridge,VA,53,F,16,4:41:23,69.22
+36,Liana,Hastings,Sophia,NC,31,F,17,4:41:33,63.99
+37,Taylor,Hall,Knoxville,TN,29,F,18,4:44:15,68.52
+38,Zach,Fahnle,Taylors,SC,22,M,20,4:45:54,59.47
+39,Ben,Kuiper,Simpsonville,SC,22,M,21,4:45:55,59.47
+40,Evelyn,Bennett,Logan,OH,39,F,19,4:46:57,67.87
+41,Jamie,King,Christiansburg,VA,42,M,22,4:47:14,50.59
+42,Aaron,Shelor,Meadows of Dan,VA,39,M,23,4:48:44,58.89
+43,Ryan,Goodman,Meadows of Dan,VA,33,M,24,4:48:48,69.26
+44,Kassidy,Cazier,Austinville,VA,18,F,20,4:49:00,67.39
+45,Anika,Whittier,Max Meadows,VA,30,F,21,4:51:12,74.69
+46,Nicole,Fields,Lebanon,VA,39,F,22,4:54:38,65.68
+47,Keenan,Haga,Louisville,CO,55,M,25,4:54:48,50.95
+48,Kristy,Stevelt,Logan,OH,37,F,23,4:56:00,71.55
+49,Chad,Mitchell,Logan,OH,42,M,26,4:56:10,65.28
+50,Jennifer,Thompson,Julian,NC,49,F,24,4:58:48,66.81
+51,Shelia,Hash,Galax,VA,50,F,25,5:03:27,68.16
+52,Nghi,Nguyen,Durham,NC,34,F,26,5:17:51,60.67
+53,Kelli,Salyer,Lebanon,VA,36,F,27,5:18:29,61.15
+54,Carlene,Absher,Cedar Bluff,VA,48,F,28,5:18:32,59.38
+55,Beth,Miletich,Cavespring,VA,45,F,29,5:19:06,71.61
+56,Melissa,Peddy,Galax,VA,38,F,30,5:19:08,69.28
+57,Colleen,Ferrell,Richlands,VA,59,F,31,5:24:19,60.33
+58,Dan,Montgomery,Lebanon,VA,39,M,27,5:26:13,80.72
+59,Scott,Kelley,Waleska,GA,52,M,28,5:26:51,68.68
+60,Kim,Nasfell,Wytheville,VA,39,F,32,5:30:06,59
+61,Timothy,Clapp,Glendale springs,NC,52,M,29,5:32:20,72.55
+62,Christina,Crider-Smith,Harlan,KY,43,F,33,5:32:42,76.57
+63,Jeffrey,Streib,Maryville,TN,41,M,30,5:32:53,47.9
+64,Lin,Pan,Spring Hill,TN,29,F,34,5:37:51,52.57
+65,Jamie,Proulex,Bristol,TN,42,M,31,5:39:52,50.03
+66,Tasha,Proulex,Bristol,TN,41,F,35,5:39:52,57.3
+67,Jonathan,George,Spring Hill,TN,52,M,32,5:41:21,45.47
+68,Wesley,Smith,Lawrenceburg,KY,36,M,33,6:05:54,59.34
+69,Lynn,Difiore,Sparta,NC,54,F,36,6:24:41,62.52
+70,Chadwick,King,Austinville,VA,45,M,34,6:27:19,47.2
+71,Danielle,Smith,Lawrenceburg,KY,38,F,37,6:27:29,50.26
+72,Tefany,Bleuel,Versailles,KY,45,F,38,6:34:50,61.99
+73,Kevin,Bleuel,Versailles,KY,48,M,35,6:34:57,50.46
+74,William,Webb,Big stone gap,VA,41,M,36,6:56:53,52.37
+75,Chamayne,Johnson,Grays Knob,KY,58,F,39,7:01:48,49.1
+76,Brandy,Stevens,Pounding Mill,VA,36,F,40,7:02:56,46.05
+77,Dean,Hamilton,Sevierville,TN,35,M,37,7:08:50,39.65
+78,Tamara,Smith,Cedar Bluff,VA,63,F,41,7:20:10,37.41
+79,Janet,Stevens,Pounding Mill,VA,55,F,42,7:20:11,44.25
+80,Bethany,Elkins,Richlands,VA,33,F,43,7:23:28,43.92
+81,Jennifer,Plumley,Pounding Mill,VA,46,F,44,7:23:30,43.92

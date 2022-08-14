@@ -1,0 +1,60 @@
+Place,First,Last,City,,Age,Gender,GP,Time,Rank
+1,Thomas,Kuhn,Selah,WA,31,M,1,4:46:57,88.57
+2,Tim,Goeckner,Issaquah,WA,35,M,2,5:25:53,80.13
+3,Rachel,Hutchinson,Olympia,WA,33,F,1,5:27:47,100
+4,John,Grover,Seattle,WA,30,M,3,5:28:14,87.42
+5,Leah,Wessler,Seattle,WA,27,F,2,5:37:26,97.02
+6,Jared,Branom,Spokane,WA,52,M,4,5:55:58,77.14
+7,Monika,Reynolds,Bellingham,WA,33,F,3,5:58:21,93.38
+8,Ben,Ulness,Bothell,WA,47,M,5,6:03:14,73.33
+9,Brian,Kearney,Maple Valley,WA,61,M,6,6:04:51,77.3
+10,Andrew,Hoffman,Morrison,CO,45,M,7,6:07:15,63.39
+11,Nolan,Ryan,Seattle,WA,30,M,8,6:21:36,75.2
+12,Mark,Olsen,Chelan,WA,45,M,9,6:28:40,66.53
+13,Molly,McNeely,Seattle,WA,25,F,4,6:30:17,78.12
+14,Luna,Kyly,Portland,OR,48,M,10,6:30:40,66.57
+15,Wes,Plate,Everett,WA,48,M,11,6:35:08,69.1
+16,Chris,Reeh,Seattle,WA,27,M,12,6:44:06,71.01
+17,Molly,Lie,Bellingham,WA,23,F,5,6:54:35,79.23
+18,David,Cunningham,Denver,CO,61,M,13,6:56:13,61.83
+19,Brianna,Talbot,Seattle,WA,25,F,6,7:00:14,78
+20,Jason,Foss,Tacoma,WA,38,M,14,7:01:14,70.64
+21,Matt,Sherer,Bothell,WA,45,M,15,7:08:16,63.11
+22,Misty,Palm,Kamloops,BC,44,F,7,7:13:12,78.1
+23,Ryan,Zeinalpoor-Movahed,Seattle,WA,30,M,16,7:18:04,58.73
+24,Bryan,Sanson,Seattle,WA,31,M,17,7:18:07,56.53
+25,Emily,Hoar,Charlotte,NC,37,F,8,7:22:04,79.97
+26,Kelly,Barber,North Bend,WA,41,F,9,7:26:05,65.73
+27,Madison,Hartshorn,Leadville,CO,29,F,10,7:26:19,73.97
+28,Mariella,Kerr,Bellingham,WA,31,F,11,7:28:34,70.53
+29,Kara,Link,Seattle,WA,23,F,12,7:32:13,73.95
+30,Brigan,Coard,Camano Island,WA,28,F,13,7:35:55,75.85
+31,Joni,Vuilsteke,Lake Tapps,WA,49,F,14,7:49:40,65.56
+32,Seth,Hennessey,Bothell,WA,46,M,18,7:52:31,61.41
+33,Ayush,Sobti,Tracy,CA,31,M,19,7:53:05,58.91
+34,Andrew,Cheyne,Seattle,WA,47,M,20,7:54:06,62.77
+35,Rick,Kubian,Invermere,BC,56,M,21,7:57:06,53.68
+36,Burke,Lyman,Everett,WA,50,M,22,7:57:25,60.1
+37,Vincent,McGowan,Olympia,WA,47,M,23,8:05:42,56.16
+38,Paula,Walker,Silverdale,WA,36,F,15,8:08:16,67.13
+39,Jennifer,Closs,Vancouver,BC,41,F,16,8:08:39,62.32
+40,Semida,Maldovan,Bothell,WA,55,F,17,8:09:32,66.96
+41,Lia,Sterciuc,Kirkland,WA,53,F,18,8:09:32,65.31
+42,Nathan,Fink,Marysville,WA,39,M,24,8:13:51,58.1
+43,John,Townley,Spokane,WA,54,M,25,8:19:40,62.16
+44,Deanna,Ashby,Spokane,WA,50,F,19,8:20:01,72.67
+45,Jamie,Simmons,Yakima,WA,51,F,20,8:26:36,59.31
+46,Adam,Oyster-Sands,Portland,OR,41,M,26,8:32:30,55.99
+47,Tigana,Le,Seattle,WA,28,M,27,8:35:01,48.79
+48,Keli,Hancock,Kelso,WA,50,F,21,8:35:03,69.21
+49,Jill,Jannison,Cashmere,WA,47,F,22,8:40:01,63.03
+50,Cheryl,Warter,Puyallup,WA,44,F,23,8:42:14,62.77
+51,Sara,Shin,Seattle,WA,31,F,24,8:47:11,62.18
+52,Daniel,Cuevas,Tacoma,WA,35,M,28,8:55:22,53.6
+53,Kirstin,Wilson,Seattle,WA,52,F,25,9:01:55,60.49
+54,Twila,Wiebe,Blaine,WA,62,F,26,9:04:33,63.57
+55,Curtis,Fielding,North Bend,WA,27,M,29,9:24:03,50.87
+56,Sierra,Bernhoft,North Bend,WA,27,F,27,9:24:03,58.11
+57,Kevin,Weiss,Missoula,MT,45,M,30,10:03:00,52.21
+58,Kristopher,Pollock,Liberty Lake,WA,43,M,31,10:03:01,47.59
+59,Janel,Tucker,Tieton,WA,48,F,28,11:13:26,48.67

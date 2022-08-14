@@ -1,0 +1,71 @@
+Place,First,Last,City,,Age,Gender,GP,Time,Rank
+1,Eric,London,Stillwater,OK,38,M,1,1:54:34,92.76
+2,Jarin,Redman,Pittsburg,KS,38,M,2,1:59:56,97.43
+3,Chad,Missildine,Edmond,OK,43,M,3,2:06:57,90.25
+4,Michael,Grady,Edmond,OK,45,M,4,2:10:33,87.76
+5,Travis,Black,Greenwood,AR,40,M,5,2:27:39,83.86
+6,Savannah,Davis,Goldsby,OK,35,F,1,2:35:29,87.76
+7,Jana,Robertson,Enid,OK,41,F,2,2:35:30,96.88
+8,Haydn,Jackson,Tahlequah,OK,26,F,3,2:42:27,94.73
+9,Justin,Combs,Derby,KS,50,M,6,2:44:45,72.89
+10,Vail,Stephens,Edmond,OK,48,M,7,2:46:29,70.97
+11,Stacey,Florer Brown,Oklahoma City,OK,49,F,4,2:48:56,92.04
+12,Blake,McGee,Poteau,OK,34,M,8,2:51:15,71.74
+13,Justin,Phillips,Andover,KS,49,M,9,2:52:36,64.68
+14,Matthew,Kitchens,Poteau,OK,36,M,10,2:54:41,66.01
+15,Marlene,Boyd,Tulsa,OK,58,F,5,3:03:53,84.56
+16,Johnnie,Jackson,Hulbert,OK,56,M,11,3:04:58,66.29
+17,Chris,Daniel,Oklahoma City,OK,63,M,12,3:10:38,70.81
+18,Lori,Stadler,Midwest City,OK,52,F,6,3:12:53,80.61
+19,Amy,Taylor,Mulhall,OK,54,F,7,3:12:53,83.28
+20,Eugene,Smith,Pawnee,OK,50,M,13,3:15:16,70.44
+21,Dana,Roark,Kiowa,KS,56,F,8,3:15:32,60.4
+22,Darlene,Hadji,Oklahoma City,OK,53,F,9,3:16:30,80.55
+23,Brian,Stone,Dexter,KS,52,M,14,3:17:17,53.18
+24,Dan,Vogel,Wildwood,MO,58,M,15,3:18:33,66.21
+25,Kimberly,Crenshaw,Wichita,KS,38,F,10,3:19:07,75.35
+26,Michael,Brandhorst,Broken Arrow,OK,44,M,16,3:19:48,64.15
+27,Keven,Stone,Meeker,OK,52,M,17,3:22:30,68.68
+28,Thuy,Ta,Oklahoma City,OK,50,F,11,3:25:12,73.12
+29,Rebecca,Dixon,McAlester,OK,51,F,12,3:26:33,66.77
+30,Carrie,Everidge,Broken Arrow,OK,37,F,13,3:28:34,73.31
+31,Kevin,McCormick,Dallas,TX,63,M,18,3:35:16,62.13
+32,Eric,Myers,Chickasha,OK,40,M,19,3:41:01,51.89
+33,Kimberly,Snider,White City,KS,49,F,14,3:41:30,69.54
+34,Big,D,Okc,OK,38,F,15,3:41:37,74.6
+35,Stephanie,Reynolds,Edmond,OK,41,F,16,3:41:38,68.37
+36,Diane,Nguyen,Carrollton,TX,28,F,17,3:44:30,51.4
+37,Mary,Vogel,Wildwood,MO,58,F,18,3:45:14,70.22
+38,Amber,Harris,Kansas City,MO,44,F,19,3:45:23,66.97
+39,Carroll,Wright-Bennett,Claremore,OK,53,F,20,3:46:54,68.7
+40,Melissa,Martin,Oklahoma City,OK,59,F,21,3:50:29,65.16
+41,Pati,Thurman,Oklahoma City,OK,62,F,22,3:50:30,62.86
+42,Nadine,Ta,Okc,OK,48,F,23,3:50:32,64.6
+43,Kimberly,Welsh,Okc,OK,46,F,24,3:52:04,68.73
+44,Cathy,Sullivan,Oklahoma City,OK,62,F,25,3:53:07,67.96
+45,Fe,Tangco,Edmond,OK,50,F,26,3:53:16,58.36
+46,Amy,Pannell Krokstrom,Oklahoma City,OK,51,F,27,3:54:15,66.37
+47,Karl,Krokstrom,Oklahoma City,OK,50,M,20,3:54:15,54.28
+48,Anhthu,Vo,Oklahoma City,OK,57,F,28,3:55:25,66.49
+49,Azucena,Medrano,Wichita,KS,31,F,29,3:57:37,55.7
+50,Jana,Rugg,Sand Springs,OK,56,F,30,3:59:11,61.72
+51,Stephanie,Sherrill,Sand Springs,OK,50,F,31,3:59:12,51.72
+52,Bev,Exposito,Hutchinson,KS,65,F,32,4:02:47,61.39
+53,John,Zielinski,Waterloo,IL,72,M,21,4:03:00,46.94
+54,Penny,Schmeidler,Pratt,KS,60,F,33,4:07:52,59.56
+55,Misty,Kermani,Tulsa,OK,41,F,34,4:08:56,54.4
+56,Angie,Demoss,Tahlequah,OK,54,F,35,4:10:20,54.4
+57,Barbara,Kelly,Edmond,OK,49,F,36,4:11:07,52.37
+58,Megan,Slayton,Edmond,OK,32,F,37,4:11:08,54.06
+59,Josie,Vinyard,Oklahoma City,OK,25,F,38,4:11:10,43.06
+60,Danielle,Shearon,Oklahoma City,OK,32,F,39,4:11:11,66.38
+61,Jennifer,Rankin,Edmond,OK,43,F,40,4:11:41,45.78
+62,Gisela,Jennings,Austin,TX,50,F,41,4:18:19,57.86
+63,Dawn,Jennings,Oklahoma City,OK,49,F,42,4:23:34,46.32
+64,Alison,Black,Red Rock,OK,42,F,43,4:26:17,58.39
+65,Caedmon,Berger,Shady Point,OK,14,M,22,4:43:55,53.26
+66,Clay,McNeill,Oklahoma City,OK,49,M,23,4:56:04,42.16
+67,Larry,Andrews,Red Rock,OK,64,M,24,5:03:24,51.11
+68,Mark,Ballenger,Jenks,OK,45,M,25,5:07:41,65.44
+69,Angela,Meadows,Blanchard,OK,43,F,44,5:37:52,46.02
+70,Stephen,Meadows,Blanchard,OK,53,M,26,5:37:52,33.91

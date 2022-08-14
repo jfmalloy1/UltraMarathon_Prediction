@@ -1,0 +1,62 @@
+Place,First,Last,City,,Age,Gender,GP,Time,Rank
+1,Patrick,Hallahan,Syracuse,NY,33,M,1,1:13:19,82.63
+2,David,Alfano,Bloomfield,NJ,36,M,2,1:16:11,96.24
+3,Conor,Orr,Denville,NJ,33,M,3,1:23:21,87.96
+4,Tommy,Mazzeo,Kenilworth,NJ,26,M,4,1:24:19,86.95
+5,Natale,Cozzolongo,Maplewood,NJ,36,M,5,1:25:43,83.09
+6,Leonard,Huffman,Bernardsville,NJ,48,M,6,1:26:46,73.01
+7,George,Rudolph,Mountain Lakes,NJ,33,M,7,1:29:01,84.64
+8,Shawn,Putnam,Hazlet,NJ,34,M,8,1:31:31,54.76
+9,Bolko,Rokicki,Hamilton,NJ,37,M,9,1:33:17,83.5
+10,James,Bremer,Bound Brook,NJ,28,M,10,1:37:57,74.85
+11,Brandon,Becker,Warrington,PA,33,M,11,1:38:14,68.03
+12,Lisi,Klus,Red Bank,NJ,44,F,1,1:39:34,99.22
+13,Renee,Perry,Hewitt,NJ,36,F,2,1:44:58,93.1
+14,Karen,Matesic,Paramus,NJ,51,F,3,1:47:37,75.6
+15,Johanna,Espitia,Reston,VA,41,F,4,1:49:28,84.86
+16,Tim,Aumack,Verona,NJ,42,M,12,1:51:45,59.7
+17,Denise,Doran,Pleasantville,NY,47,F,5,1:52:21,74.15
+18,Rob,Conwell,Somerset,NJ,24,M,13,1:54:54,63.81
+19,Nick,Pegg,Mountainside,NJ,37,M,14,1:55:50,66.82
+20,Melanie,Lenahan,Clinton,NJ,54,F,6,1:57:18,84.37
+21,Jonathan,Kaplan,Croton On Hudson,NY,41,M,15,1:57:19,63.31
+22,Jenna,Paquin,Bloomfield,NJ,37,F,7,1:57:48,79.5
+23,Chris,Stiles,Union,NJ,36,M,16,1:59:19,61.45
+24,Jan,Summers,Mullica Hill,NJ,60,F,8,2:00:09,73.89
+25,Stephen,Jacobs,Maplewood,NJ,51,M,17,2:00:27,69.1
+26,Nicholas,Breiner,Totowa,NJ,49,M,18,2:02:15,73.72
+27,Anthony,Sprague,Little Falls,NJ,54,M,19,2:02:37,59.23
+28,Angela,Rhoderick-Kesecker,Hagerstown,MD,39,F,9,2:04:03,86.44
+29,Jennifer,Plevinski,Clear Spring,MD,44,F,10,2:04:04,79.32
+30,Carolyn,Paulik,Mountainside,NJ,36,F,11,2:07:10,80.7
+31,Daniel,Depaulis,Staten Island,NY,50,M,20,2:10:22,56.24
+32,Stephanie,Francis,Montville,NJ,44,F,12,2:11:44,86.2
+33,Keith,Hackett,Manalapan,NJ,37,M,21,2:12:02,53.91
+34,Gemma,Aafjes-Hilverdink,New York,NY,35,F,13,2:12:22,65.17
+35,Konstantin,Turitsyn,Edgewater,NJ,40,M,22,2:15:35,49.33
+36,Maria,Farinas,Scotch Plains,NJ,47,F,14,2:19:57,73.34
+37,Shanna,Lipp,Ocean Grove,NJ,40,F,15,2:20:00,81.67
+38,Elisabeth,O'Brien,Ocean Grove,NJ,27,F,16,2:20:00,82.19
+39,Luz,Brown,Robbinsville,NJ,47,F,17,2:28:09,68
+40,Kate,Axelrod,Brooklyn,NY,42,F,18,2:29:49,63.35
+41,Janine,Di Muzio,Toms River,NJ,38,F,19,2:32:37,75.98
+42,Christine,Cote,Charham,NJ,53,F,20,2:32:48,72.1
+43,Melinda,Dunleavy,Rio Grande,NJ,33,F,21,2:35:31,73.49
+44,Gavin,Doty,Breinigsville,PA,11,M,23,2:35:41,47.09
+45,Tangela,Doty,Breinigsville,PA,33,F,22,2:35:44,62.94
+46,Jalen,McKenzie,Breinigsville,GA,15,M,24,2:35:45,45.52
+47,Matthew,Hirsch,Massapequa,NY,26,M,25,2:36:17,48.4
+48,Siobhan,Pfaff,Caldwell,NJ,27,F,23,2:36:28,62.64
+49,Robert,Lister,Far Hills,NJ,27,M,26,2:36:29,72.35
+50,Tommy,Strain,Hartsdale,NY,47,M,27,2:37:35,45.13
+51,Seth,Goodstone,Dover,NJ,45,M,28,2:39:25,67.45
+52,Olivia,Bueno,New York,NY,43,F,24,2:42:16,60.4
+53,Joseph,Kazmac,Lincroft,NJ,20,M,29,2:44:34,48.02
+54,Emily,Kazmac,Trenton,NJ,28,F,25,2:44:34,69.65
+55,Eric,Krupski,Philadelphia,PA,40,M,30,2:48:45,37.98
+56,Anna,Meirana,Rockaway,NJ,46,F,26,2:57:18,59.58
+57,Anna,Ferreira,Philadelphia,PA,27,F,27,2:58:22,50
+58,Nicola,Cristofano,Clark,NJ,40,M,31,3:05:00,39.63
+59,Arun,Harcharan,Macungie,PA,43,M,32,3:09:01,38.79
+60,Sheila,Kelly,West Orange,NJ,64,F,28,3:09:07,62.35
+61,Ally,Rhoden,Belleville,NJ,47,F,29,4:09:07,57.84

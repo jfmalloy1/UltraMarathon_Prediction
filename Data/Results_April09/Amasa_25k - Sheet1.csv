@@ -1,0 +1,112 @@
+Place,First,Last,City,,Age,Gender,GP,Time,Rank
+1,Ben,Mangrum,Tacoma,WA,43,M,1,2:01:27,92.95
+2,Callum,Dickerson,Bellevue,ID,27,M,2,2:14:42,90.16
+3,Nathaniel,Hatch,Provo,UT,21,M,3,2:15:29,80.33
+4,Matthew,Richert,North Salt Lake,UT,31,M,4,2:17:48,76.61
+5,Daniel,Sturm,Cottonwood Hieghts,UT,34,M,5,2:20:24,85.06
+6,Thatcher,Reist,Salt Lake City,UT,42,M,6,2:23:33,77.02
+7,Brian,Murray,Durango,CO,47,M,7,2:24:28,73.23
+8,Drake,Boucher,Reno,NV,25,M,8,2:28:23,79.45
+9,Aria,Paxton,Dillon,CO,28,F,1,2:29:09,84.54
+10,Andreas,Boehm,München,,34,M,9,2:29:54,81.02
+11,Christian,Finlay,Far Hills,NJ,20,M,10,2:30:36,80.64
+12,April,Kenyon,,,36,F,2,2:32:32,85.23
+13,Tasha,Woolley,Sandy,UT,32,F,3,2:38:21,84.31
+14,Andrew,Hollenbeck,Leadville,CO,33,M,11,2:38:28,59.66
+15,Doug,Hermanson,Dillon,CO,48,M,12,2:40:19,68.16
+16,Sydney,Ryan,Salt Lake City,UT,36,F,4,2:41:27,73.4
+17,Teddy,Wolf,East Hampton,NY,20,M,13,2:41:27,75.22
+18,Brian,Fisher,Littleton,CO,56,M,14,2:42:11,81.93
+19,Benjamin,Street,Livonia,MI,30,M,15,2:44:02,74.04
+20,Davidq,Sandweiss,Slc,UT,51,M,16,2:45:33,73.36
+21,Katie,Cassiday,Ogden,UT,50,F,5,2:46:15,81.94
+22,Dan,Kadrmas,Morgan,UT,54,M,17,2:47:28,71.97
+23,Sarah,Coffey,Taylorsville,UT,35,F,6,2:48:28,84.25
+24,Samm,Strothman,Moab,UT,26,F,7,2:49:20,81.08
+25,Willard,Chivers,American Fork,UT,36,M,18,2:50:31,67.96
+26,Rudolf,Oosthuizen,Denver,CO,33,M,19,2:53:25,70.03
+27,Mary,Bingham Chee,Broomfield,CO,35,F,8,2:53:43,79.51
+28,Hannah,Willis,Estes Park,CO,23,F,9,2:53:59,81.19
+29,Leslie,Keener,Park City,UT,42,F,10,2:56:09,81.69
+30,Elle,Dice,Littleton,CO,24,F,11,2:56:15,80.53
+31,Robyn,Bernardy,St. Paul,MN,40,F,12,2:56:18,86.8
+32,Matt,Gawlowski,Woodland Park,CO,48,M,20,2:57:23,61.71
+33,Erica,Carlson,Windsor,CO,43,F,13,2:58:05,78.73
+34,Chad,King,Denver,CO,47,M,21,2:59:11,69.12
+35,Arielle,Rubenstein,Denver,CO,30,F,14,2:59:18,79.85
+36,Charlie,Casey,Montrose,CO,48,M,22,3:01:48,66.8
+37,Rick,Cooper,Bozeman,MT,64,M,23,3:02:54,65.56
+38,Silas,Morgan,Minneapolis,MN,37,M,24,3:02:57,66.38
+39,Theresa,Tran,Salt Lake City,UT,31,F,15,3:05:20,77.21
+40,Sydney,Comer,Denver,CO,27,F,16,3:07:19,75.77
+41,Marco,Perno,Calasca,,42,M,25,3:07:34,64.75
+42,Riccardo,Ronchi,Ceppo Morelli,,26,M,26,3:07:34,64.75
+43,Cristiano,Cairati,White Plains,NY,51,M,27,3:07:35,64.74
+44,Ryan,Kulbarsh,Soquel,CA,26,M,28,3:07:58,72.27
+45,Brent,Laseure,Ogden,UT,51,M,29,3:08:09,69.5
+46,Theresa,Fagundes,Durango,CO,36,F,17,3:08:21,63.28
+47,Jackie,Achter,Plain City,UT,43,F,18,3:09:08,82.58
+48,Sid,Glick,Moab,UT,62,M,30,3:09:08,65.04
+49,John,Peterselli,Denver,CO,34,M,31,3:10:09,63.87
+50,Alexis,Baca-Spry,Montrose,CO,49,F,19,3:10:44,78.6
+51,Amie,Nugent,Bozeman,MT,48,F,20,3:12:02,66.87
+52,Zachary,Kilpatrick,Louisville,CO,38,M,32,3:13:38,62.72
+53,Zach,Wicks,,,27,M,33,3:16:56,61.67
+54,Doug,Brantley,Denver,CO,26,M,34,3:17:10,61.6
+55,Sineah,McGrady,Denver,CO,31,F,21,3:17:11,71.98
+56,Ryan,Brandt,Denver,CO,35,M,35,3:17:32,58.84
+57,Jennie,Buttars,Ogden,UT,46,F,22,3:17:54,79.85
+58,John,Doheny,,,27,M,36,3:18:21,61.23
+59,Ted,Jamieson,Ellisville,MO,34,M,37,3:18:37,67.18
+60,Michael,Nosek,Salt Lake City,UT,34,M,38,3:20:22,64.02
+61,Romualdo,Ancona,Hawthorne,CA,35,M,39,3:20:39,64.12
+62,Nancy,Bunn,Boulder,CO,39,F,23,3:21:13,70.54
+63,Michael,Kjelland,Alexandria,MN,68,M,40,3:21:43,60.21
+64,Sarah,Evans,Buena Vista,CO,32,F,24,3:23:15,75.58
+65,Hugo,Garduno,Durango,CO,37,M,41,3:24:21,59.43
+66,Kate,Wolpert,Seattle,WA,34,F,25,3:24:45,65.08
+67,Richard,Kelly,Albuquerque,NM,31,M,42,3:25:21,59.14
+68,Lucy,Hale,Albuquerque,NM,26,F,26,3:25:22,69.11
+69,Paul,Bunn,Boulder,CO,43,F,27,3:26:06,68.87
+70,Lauren,Hebert,Moab,UT,30,F,28,3:28:01,68.23
+71,Carrie,Peterson,Golden Valley,MN,49,F,29,3:28:34,81.96
+72,Darlene,Cash,Packwood,WA,64,F,30,3:29:41,79.42
+73,Rebecca,Smith,Denver,CO,30,F,31,3:29:52,67.63
+74,Kirk,Thompsen,Grand Junction,CO,48,M,43,3:30:51,53.53
+75,Brett,Einerson,Salt Lake City,UT,38,M,44,3:31:04,52.07
+76,Arlo,Lott,Steamboat Springs,CO,41,M,45,3:33:19,65.08
+77,Andrea,Bruski,Denver,CO,32,F,32,3:37:47,67.7
+78,Elizabeth,Perez-Elmore,Wichita,KS,37,F,33,3:38:30,64.96
+79,Haley,Allen,Broomfield,CO,37,F,34,3:38:40,64.91
+80,Kristine,Jordan,Cottonwood Heights,UT,52,F,35,3:38:54,61.82
+81,Shelby,Hicks,Lakewood,CO,29,F,36,3:39:07,64.78
+82,Herschel,Nay,West Haven,UT,74,M,46,3:40:51,59.51
+83,Cameron,Eggleston,Midvale,UT,33,M,47,3:41:54,59.55
+84,Drew,Williams,Sandy,UT,45,M,48,3:43:27,47.63
+85,Rachael,Walsh,Parker,CO,35,F,37,3:44:32,70.7
+86,Lydia,Zowada,Moab,UT,29,F,38,3:44:38,65.9
+87,Yuka,Busuioc,Dearborn,MI,46,F,39,3:44:43,63.16
+88,Lee,Nickloy,Phoenix,AZ,55,M,49,3:49:52,57.53
+89,Brad,Shepherd,Boise,ID,43,M,50,3:51:48,54.68
+90,Devin,Mattson,Provo,UT,37,M,51,3:52:27,53.81
+91,Jemayla,Heath,Idaho Falls,ID,35,F,40,3:54:22,60.56
+92,Amanda,Kessel,Saint Paul,MN,42,F,41,3:55:03,63.83
+93,Courtney,Meyers,Ridgway,CO,35,F,42,3:58:30,67.54
+94,Jennifer,Gero,Durango,CO,37,F,43,4:02:15,56.88
+95,Matt,Lesiecki,Riverside,CA,29,M,52,4:03:58,52.27
+96,Jonathan,Green,Denver,CO,29,M,53,4:03:59,49.78
+97,Ted,Jacobs,Denver,CO,49,M,54,4:05:15,49.83
+98,Brad,Hatch,Idaho Falls,ID,57,M,55,4:09:21,52.31
+99,Lizette,Langefels,Durango,CO,43,F,44,4:09:31,56.63
+100,Heidi,Hatch,Provo,UT,23,F,45,4:09:34,58.89
+101,Tina,Andersen,Bicknell,UT,55,F,46,4:24:01,61.91
+102,Amber,Morrell,Lisle,IL,45,F,47,4:24:17,53.7
+103,Jen,Carrera,Gilbert,AZ,50,F,48,4:42:08,59.98
+104,Alejandra,Alvarado,Charleston,IL,46,F,49,4:45:55,52.84
+105,Carrie,Hall,Park City,UT,54,F,50,4:56:18,51.03
+106,Kerry,Collings,Midway,UT,73,M,56,5:20:26,54.51
+107,John,Dudek,Eagle,ID,62,M,57,5:20:47,39.12
+108,Bina,Boles,Waddell,AZ,59,F,51,5:26:01,57.72
+109,Martina,Williamson,Salt Lake City,UT,57,F,52,5:28:37,51.85
+110,Marcy,Vranes,Lewisville,ID,62,F,53,5:31:15,45.48
+111,Rhonda,Stewart,Mt Pleasant,UT,51,F,54,5:39:37,52.65

@@ -1,0 +1,138 @@
+Place,First,Last,City,,Age,Gender,GP,Time,Rank
+1,Brandon,Talisesky,New York,NY,30,M,1,3:45:33,94.53
+2,Francisco,Balagtas,,,37,M,2,4:13:13,92.25
+3,Joseph,Baldasare,Point Pleasant,NJ,35,M,3,4:19:56,87.67
+4,Jiahui,Lu,Manhasset,NY,37,M,4,4:23:44,73.96
+5,Jackie,Farnham,Allston,MA,22,M,5,4:24:31,85.27
+6,Matthew,Galle,Fairfield,CT,24,M,6,4:31:19,71.93
+7,Stephen,Uresk,Greenlawn,NY,53,M,7,4:46:53,78.24
+8,Sean,Gerlich,Astoria,NY,40,M,8,4:48:35,76.52
+9,Mike,Saitta,Wayne,NJ,37,M,9,4:49:44,77.85
+10,Rebecca,Holloway,New York,NY,22,F,1,4:54:32,85.07
+11,Grant,Bradley,Providence,RI,25,M,10,4:58:44,75.5
+12,Christopher,Lamagna,West Islip,NY,29,M,11,5:01:51,79.37
+13,Brendan,Smith,Rego Park,NY,37,M,12,5:01:51,74.72
+14,Patrick,Evans,East Setauket,NY,30,M,13,5:02:58,74.45
+15,Timothy,Ela,CLIFTON PARK,NY,32,M,14,5:04:40,79.41
+16,Helen,Huang,Cold Spring Harbor,NY,52,F,2,5:09:28,82.13
+17,Kenneth,Tymecki Jr,Levittown,NY,38,M,15,5:10:11,68.15
+18,Ron,Woolley,Duxbury,MA,52,M,16,5:10:15,69.76
+19,Neil,Ryan,Brooklyn,NY,34,M,17,5:10:16,72.7
+20,Dan,Reiser,Highland,NY,31,M,18,5:12:40,78.53
+21,Jodie,Davis,boston,MA,30,F,3,5:15:07,79.46
+22,Ken,Jiang,Great Neck,NY,50,M,19,5:15:57,71.69
+23,Michelle,Kulak,Collinsville,CT,40,F,4,5:18:36,92.45
+24,Stephen,Bienemann,Smithtown,NY,30,M,20,5:19:34,70.58
+25,Joseph,Grasso,Lynbrook,NY,33,M,21,5:21:11,65.29
+26,John,Taboada,Cortlandt Manor,NY,28,M,22,5:21:12,58.23
+27,Matthew,Brownstein,Queens,NY,37,M,23,5:21:57,71.88
+28,Joshua,Macfarlane,Brooklyn,NY,32,M,24,5:22:24,69.96
+29,Cristian,Robbins,West Point,NY,41,M,25,5:24:54,64.12
+30,Jacob,Massa,Stony Brook,NY,28,M,26,5:25:38,69.27
+31,Martin,Conkey,Brooklyn,NY,31,M,27,5:27:55,68.78
+32,Robert,Campos,Ronkonkoma,NY,53,M,28,5:28:12,68.82
+33,Michael,Lukenovich,Deer Park,NY,34,M,29,5:28:19,72
+34,Eddie,Montalvo,Smithtown,NY,33,M,30,5:29:21,73.22
+35,Eric,Spurlino,BROOKLYN,NY,27,M,31,5:31:57,71.05
+36,Marco Vinicio,Escobar,Huntington Station,NY,38,M,32,5:32:06,72.82
+37,Garrett,Langdon,Glendale,NY,36,M,33,5:32:42,69.41
+38,Denis,Murphy,Wantagh,NY,30,M,34,5:32:42,75.1
+39,Tyler,Drayton,Brooklyn,NY,31,M,35,5:35:21,67.26
+40,Jonathan,Germer,Ridge,NY,31,M,36,5:36:46,64.56
+41,David,Treve,Eastchester,NY,42,M,37,5:39:34,66.42
+42,Stephen,Discenza,Astoria,NY,33,M,38,5:40:57,69.53
+43,Joe,Marinaccio,Oakdale,NY,51,M,39,5:41:31,80.2
+44,Alexander,Czik,New York,NY,32,M,40,5:42:20,71.57
+45,Daniel,Holland,Kings Park,NY,45,M,41,5:50:17,64.39
+46,Kevin,Nolan,East Islip,NY,37,M,42,5:50:24,64.37
+47,Robert,Tucci,Manorville,NY,48,M,43,5:50:31,71.06
+48,Kevin,Waite,Amityville,NY,32,M,44,5:51:03,64.25
+49,Tj,Burns,Mt. Sinai,NY,27,M,45,5:51:03,65.75
+50,Briana,Ryan,Brooklyn,NY,32,F,5,5:56:36,80.72
+51,Evan,Miller,Westhampton,NY,35,M,46,5:59:54,77.8
+52,Lisa,Gesualdo,Bel Air,MD,52,F,6,6:01:34,75.37
+53,Amanda,Whittaker,Bay shore,NY,29,F,7,6:02:00,78.2
+54,Gary,Wenczel,Conestoga,PA,43,M,47,6:06:20,67.98
+55,Kathryn,Bell,Bethpage,NY,36,F,8,6:07:08,80.23
+56,Ethan,Baum,Bayside,NY,46,M,48,6:11:45,68.79
+57,Lenny,Dibono,Seaford,NY,30,M,49,6:13:20,67.07
+58,Zach,Locascio,Massapequa,NY,27,M,50,6:13:20,60.42
+59,Rod,Steensma,Southport,CT,52,M,51,6:13:49,64.39
+60,Dave,Cheng,Sea Cliff,NY,33,M,52,6:17:22,59.77
+61,Symong,Choi,Bayside,NY,45,M,53,6:19:29,58.15
+62,Sally,Fisk,Westport,CT,46,F,9,6:19:34,77.6
+63,Andrew,McGregor,New York,NY,31,M,54,6:19:35,55.25
+64,Jeremy,Benhammou,NEW YORK,NY,43,M,55,6:22:48,68.47
+65,Ryan,Hughes,Merrick,NY,32,M,56,6:23:26,58.82
+66,Jason,Potter,Sea Cliff,NY,41,M,57,6:26:09,56.66
+67,Michael,Hulbert,Bronxville,NY,55,M,58,6:26:37,64.68
+68,Jessica,Torres,Centereach,NY,42,F,10,6:26:50,63.44
+69,Brian,Sullivan,Deer Park,NY,51,M,59,6:28:32,62.07
+70,Jon,Jacobs,Plainview,NY,35,M,60,6:30:05,57.82
+71,Emilia,Souza,Lindenhurst,NY,29,F,11,6:30:28,63.25
+72,Jennifer,Disalvo,Ontario,NY,47,F,12,6:30:35,73.5
+73,Charles,Squire,Orient,NY,51,M,61,6:31:22,64.7
+74,Sarah,McCulley,New York City,NY,34,F,13,6:32:41,77.23
+75,Aaron,Dallara,Hoboken,NJ,40,M,62,6:33:10,71.92
+76,Marc,Fernandez,Oceanside,NY,34,M,63,6:33:10,64.56
+77,Allison,Sidor,Holtsville,NY,32,F,14,6:37:26,74.86
+78,Kenneth,Scerbo,West Point,NY,44,M,64,6:37:33,65.87
+79,Bambi,Jasmin,Webster,NY,50,F,15,6:37:35,70.59
+80,Toni,Swinson,Webster,NY,50,F,16,6:37:35,59.19
+81,Vicky,Mitsukova,Brooklyn,NY,34,F,17,6:47:00,63.9
+82,Edwin,Gulko,Bronx,NY,40,M,65,6:48:40,55.19
+83,Deanna,Velez,Farmingville,NY,31,F,18,6:49:53,69.43
+84,Michael,McTighe,Rochester,NY,30,M,66,6:51:41,70.39
+85,Steven,Levitsky,Rochester,NY,55,M,67,6:52:39,64.18
+86,Jeffrey,Dimayo,Middleport,NY,57,M,68,6:53:13,61.91
+87,Thomas,Haddock,Centereach,NY,32,M,69,6:54:23,54.43
+88,Patrick,Dean,SAYVILLE,NY,31,M,70,6:58:34,53.89
+89,Jamie,Prosser,Seaford,NY,45,M,71,6:59:11,58.52
+90,Johnny,Young,Rochester,NY,32,M,72,7:00:11,68.69
+91,Todd,Metro,Holtsville,NY,54,M,73,7:00:42,58.66
+92,Jennifer,Adelberg,Saint James,NY,49,F,19,7:00:43,72.39
+93,Samantha,Simon,East Patchogue,NY,34,F,20,7:00:43,76.99
+94,Yazmin,Lopez,Corona,NY,34,F,21,7:02:18,57.64
+95,Josh,Engels,Dedham,MA,39,M,74,7:02:49,51.78
+96,Paul,Dlug,Port Jefferson,NY,40,M,75,7:03:21,55.05
+97,Matthew,Dolitsky,Medford,NY,51,M,76,7:03:35,58.88
+98,Yaniv,Raich,East Northport,NY,40,M,77,7:04:19,53.16
+99,Gardiner,Comfort,New York,NY,42,M,78,7:11:16,57.59
+100,Eric,Steinberg,Norwalk,CT,36,M,79,7:14:39,53.18
+101,Kathleen,Reardon,Honeoye Falls,NY,60,F,22,7:15:11,65.87
+102,Melissa,Louie,Greenvale,NY,50,F,23,7:15:17,67.66
+103,Kevin,Kellam,Levittown,NY,65,M,80,7:16:19,57.33
+104,Lars,Oetjen,New York,NY,44,M,81,7:16:57,51.62
+105,Brian,Wolf,Dix Hills,NY,39,M,82,7:17:30,64.53
+106,Adina,McGinley,Pleasantville,NY,39,F,24,7:18:25,63.05
+107,Eric,Bernstein,wantagh,NY,48,M,83,7:20:33,60.2
+108,Ryan,Colichio,East Patchogue,NY,33,M,84,7:24:51,56.86
+109,Dejan,Rakamaric,West Islip,NY,42,M,85,7:24:51,50.7
+110,Daniel,Stratford,Bethpage,NY,32,M,86,7:24:51,57.51
+111,Zachary,Schor,New York,NY,54,M,87,7:26:31,50.51
+112,Todd,Beverly,East Bloomfield,NY,61,M,88,7:33:04,66.56
+113,Jenny,Pearlman,Northport,NY,28,F,25,7:36:09,82.29
+114,Carrie,Luckner-Zimmerman,Great Neck,NY,44,F,26,7:36:48,64.48
+115,Bert,Voland,Patchogue,NY,58,M,89,7:40:17,59.67
+116,Michael,Pellecchia,Ronkonkoma,NY,33,M,90,7:42:11,48.8
+117,Robert,Egan,Stony Brook,NY,36,M,91,7:42:11,48.8
+118,Justine,Springer,Frederick,MD,36,F,27,7:44:14,63.45
+119,Jennifer,Kimpel,Sayville,NY,51,F,28,7:47:47,68.98
+120,Danielle,Vedder,East Northport,NY,46,F,29,7:54:53,62.02
+121,Alicia,Tufano,Huntington Station,NY,43,F,30,7:54:54,62.02
+122,Johanna,Moustouka,Dix Hills,NY,43,F,31,7:55:23,58.36
+123,Cameron,Mahood,Rochester,NY,53,M,92,7:57:43,54.29
+124,Jaclyn,Dagnall,Rocky Point,NY,33,F,32,7:57:47,72.21
+125,Guy,Edwards,Bohemia,NY,58,M,93,8:04:53,55.58
+126,Christy,Carrasquillo,middle island,NY,42,F,33,8:12:52,59.76
+127,Claudia,Cabanas,LINDENHURST,NY,44,F,34,8:12:52,65.46
+128,Tatyana,Mele,Bronx,NY,36,F,35,8:21:11,65.52
+129,Tanya,Carbone,Babylon,NY,50,F,36,8:24:08,58.42
+130,Trishul,Cherns,Kingston,NY,65,M,94,8:27:14,61.39
+131,Susan,Donnelly,Mount Siani,NY,57,F,37,8:33:47,75.81
+132,Rob,McSwiney,New York,NY,33,M,95,8:34:18,43.86
+133,Juan,Huertas,Bohemia,NY,43,M,96,8:37:32,56.8
+134,Gene,Gamache,East Rockaway,NY,53,M,97,8:38:34,43.49
+135,Paul,Sheridan,East Islip,NY,39,M,98,8:41:40,43.24
+136,Jose,Vasquez,East Islip,NY,39,M,99,8:41:40,43.24
+137,Josh,Houska,Coon Rapids,MN,29,M,100,8:42:18,46.22

@@ -1,0 +1,108 @@
+Place,First,Last,City,,Age,Gender,GP,Time,Rank
+1,Ryan,Littrell,Bellevue,WA,24,M,1,2:18:55,95.73
+2,Andy,Zielinski,Coeur D'Alene,ID,39,M,2,2:19:37,62.45
+3,Mallory,Wordell,Orondo,WA,30,F,1,2:21:04,99.97
+4,Lauren,Liebling,Leavenworth,WA,33,F,2,2:26:30,76.15
+5,Annie,Logan,Leavenworth,WA,36,F,3,2:26:30,96.29
+6,Brian,Pinkard,University Place,WA,27,M,3,2:28:09,81.17
+7,Ryan,Mugan,Seattle,WA,28,M,4,2:32:54,80.09
+8,Jamin,May,Lacey,WA,51,M,5,2:35:02,77.98
+9,Bryan,Swaffield,Sultan,WA,29,M,6,2:35:14,84.9
+10,Alex,Rigas,Seattle,WA,30,M,7,2:35:38,77.72
+11,Jordan,Greco,Renton,WA,32,M,8,2:38:22,87.72
+12,Emily,Schreiner,Spokane,WA,40,F,4,2:38:35,88.95
+13,Caleb,McNamara,Ephrata,WA,43,M,9,2:41:07,75.81
+14,Matthew,Smith,Seattle,WA,39,M,10,2:41:48,82.3
+15,Bill,Fitzner,Spokane,WA,56,M,11,2:45:28,77.95
+16,Scott,Marquis,Spokane,WA,54,M,12,2:45:49,76.86
+17,Lacy,Ferrell,Ellensburg,WA,39,F,5,2:46:31,78.39
+18,Rye,Ryan,Randle,WA,32,F,6,2:49:31,83.22
+19,Lucas,Thiele,Sherwood,OR,22,M,13,2:51:16,60.58
+20,Ron,Homer,Vancouver,WA,51,M,14,2:52:35,72.84
+21,Matthew,Prinvale,Vancouver,WA,40,M,15,2:53:53,65.37
+22,Kara,Murray,Bellingham,WA,28,F,7,2:54:28,90.43
+23,Ben,Rogoza,Leavenworth,WA,34,M,16,2:55:39,57.82
+24,Brandi,Townsend,Okanogan,WA,40,F,8,2:57:41,79.39
+25,Lacey,Chamberlin,Omak,WA,39,F,9,2:57:54,79.3
+26,Grace,Miles,Seattle,WA,25,F,10,2:58:12,79.16
+27,Jordan,Clizer,Seattle,WA,26,M,17,2:58:49,77.69
+28,Kyle,Ovenell,Quincy,WA,32,M,18,2:58:56,77.64
+29,Jeff,Johnson,Tacoma,WA,50,M,19,3:01:29,64.96
+30,Cary,Davis,Edmonds,WA,42,F,11,3:02:22,77.35
+31,Jason,Fehntrich,Shoreline,WA,35,M,20,3:05:24,71.01
+32,Peter,Stirling,Seattle,WA,57,M,21,3:05:38,66.77
+33,Rich,Gayler,Moscow,ID,62,M,22,3:07:09,65.8
+34,Alex,Torres,Moses Lake,WA,36,M,23,3:07:38,69.16
+35,Bruce,Thorn,Walla Walla,WA,58,M,24,3:08:46,61.55
+36,Kaitlyn,Pauly,Enumclaw,WA,31,F,12,3:09:08,74.59
+37,Haley,Roth,Tacoma,WA,31,F,13,3:10:50,73.92
+38,Trevor,Thompson,Tulalip,WA,38,M,25,3:11:35,73.15
+39,Nicole,Lukas,Seattle,WA,26,F,14,3:11:53,75.34
+40,Alfredo,Santamaria,Redmond,WA,28,M,26,3:12:22,72.21
+41,Cody,Graf,Cashmere,WA,45,F,15,3:12:34,84.2
+42,Elena,Kay,Seattle,WA,37,F,16,3:13:13,73.01
+43,Bryan,Guiney,Lake Oswego,OR,39,M,27,3:16:17,60.77
+44,Mallory,Raber,Bremerton,WA,36,F,17,3:17:36,75.6
+45,Jeremy,Russell,Othello,WA,41,M,28,3:19:25,63.65
+46,Shannon,Joyce,Seattle,WA,42,F,18,3:21:36,70.7
+47,Michael,Marron,Seattle,WA,52,M,29,3:21:37,68.9
+48,Shane,Giddens,Seattle,WA,35,M,30,3:22:43,97.34
+49,Alison,Hearst,Seattle,WA,32,F,19,3:23:09,69.44
+50,Catherine,Houser,Wenatchee,WA,25,F,20,3:23:11,69.43
+51,Mary,Jurken,Elm Grove,WI,56,F,21,3:26:10,70.65
+52,Jon,Hale,Kenmore,WA,46,M,31,3:28:03,62.18
+53,Stacey,Kaiser,Seattle,WA,32,F,22,3:28:08,95.23
+54,Ryan,Bumgardner,Beaverton,OR,41,M,32,3:30:09,66.1
+55,Brianna,Avery,Portland,OR,46,F,23,3:33:27,65.4
+56,Maria,Turberville,Ferndale,WA,43,F,24,3:33:58,62.51
+57,Anja,Shimogawa,Portland,OR,49,F,25,3:34:28,69.55
+58,Jenn,Owens,Selah,WA,35,F,26,3:35:43,65.17
+59,Juan,Marron,Tukwila,WA,28,M,33,3:38:54,67.15
+60,Steve,Rybolt,Seattle,WA,41,M,34,3:38:57,60.39
+61,Grant,Reynolds,Bellingham,WA,33,M,35,3:39:31,63.28
+62,Tailor,Dolgin,Seattle,WA,26,F,27,3:52:18,60.73
+63,Dan,Overman,Bellingham,WA,61,M,36,3:54:29,60.37
+64,Kyle,Krustangel,Selah,WA,34,M,37,3:56:57,55.35
+65,Katie,McKeown,Lynnwood,WA,41,F,28,3:57:25,59.42
+66,Sarah,Johnson,Seattle,WA,31,F,29,3:58:32,47.71
+67,Nicholas,Bierman,West Richland,WA,42,M,38,3:59:39,60.11
+68,Courtney,Bierman,West Richland,WA,39,F,30,3:59:40,65.39
+69,Eric,Wentworth,Puyallup,WA,46,M,39,4:00:31,57.76
+70,Nicole,Allen,Post Falls,ID,39,F,31,4:00:50,55.53
+71,Liz,Hunt,Bellingham,WA,46,F,32,4:01:11,62.51
+72,Shannon,Dallyn,Seattle,WA,34,F,33,4:01:29,58.42
+73,Michelle,Wrobbel,Spanaway,WA,34,F,34,4:01:44,66.68
+74,Melinda,Cool,Ferndale,WA,49,F,35,4:03:13,60.11
+75,Robyn,Coleman,Bothell,WA,53,F,36,4:05:12,57.53
+76,Susan,Wheaton,Seattle,WA,63,F,37,4:05:25,58.75
+77,Kevin,Hamilton,Orting,WA,37,M,40,4:06:52,53.88
+78,Renee,Gale,Tacoma,WA,63,F,38,4:08:42,63.97
+79,Annette,Hamilton,Orting,WA,37,F,39,4:09:02,58.81
+80,Sheri,Robinson,Bellevue,WA,48,F,40,4:10:19,59.77
+81,Dant,Rambo,Seattle,WA,32,M,41,4:12:30,55.02
+82,Abbie,Romano,Seattle,WA,27,F,41,4:12:31,55.86
+83,Kristie,Spallone,Seattle,WA,33,F,42,4:12:46,55.81
+84,Ronald,Stone,Wenatchee,WA,61,M,42,4:12:57,54.92
+85,Brittnee,Elliott,Boise,ID,36,F,43,4:14:21,55.46
+86,Samuel,Burns,Snoqualmie,WA,34,M,43,4:14:22,60.63
+87,Hether,Campbell,Covington,WA,38,F,44,4:15:10,40.71
+88,Andy Dandy,Benningfield,East Wenatchee,WA,35,M,44,4:17:16,61.43
+89,Sharmen,Dye,East Wenatchee,WA,46,F,45,4:17:16,49.67
+90,Carrie,Stewart,Seattle,WA,57,F,46,4:17:16,42.73
+91,Ginger,Krugmire,University Place,WA,60,F,47,4:19:05,57.18
+92,Mark,Stewart,Seattle,WA,61,M,45,4:19:40,40.37
+93,Marguerite,Cargill,Bellingham,WA,36,F,48,4:25:42,61.45
+94,Jennifer,West,Seattle,WA,42,F,49,4:25:43,53.09
+95,Nomi,Amani,Lewiston,ID,48,F,50,4:30:41,51.21
+96,Tiffany,Qunell,Tacoma,WA,42,F,51,4:38:03,45.56
+97,Leslie,Qunell,Tacoma,WA,35,F,52,4:38:03,45.56
+98,Cheryl,Zaragoza,Tacoma,WA,44,F,53,4:44:30,41.17
+99,Brian,Hadfield,Bothell,WA,53,M,46,4:46:58,48.41
+100,Matt,Castro,Woodinville,WA,32,M,47,4:46:59,62.17
+101,Luke,Bayler,Seattle,WA,45,M,48,4:47:06,48.39
+102,Elijah,Perkins,Royal City,WA,37,M,49,4:53:55,49.22
+103,Robert,Hozack,Vancouver,WA,69,M,50,4:58:52,55.51
+104,Cassie,Rybolt,Seattle,WA,44,F,54,5:00:08,48.73
+105,Anne,Watson,Yakima,WA,53,F,55,5:09:53,42.01
+106,Steven,Ferry,Deming,WA,53,M,51,5:24:27,50.35
+107,Bob,Huffman,Shoreline,WA,69,M,52,5:29:22,42.18

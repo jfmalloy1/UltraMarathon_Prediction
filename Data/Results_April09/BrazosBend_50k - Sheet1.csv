@@ -1,0 +1,157 @@
+Place,First,Last,City,,Age,Gender,GP,Time,Rank
+1,Zach,Bitter,Austin,TX,36,M,1,3:19:10,91.2
+2,David,Santino,Houston,TX,35,M,2,3:34:39,92.97
+3,Owen,Bradley,Birmingham,AL,42,M,3,3:35:02,92.91
+4,Nicole,Bitter,Austin,TX,40,F,1,3:35:52,93.92
+5,Starla,Garcia,Houston,TX,32,F,2,3:42:08,88.27
+6,Fredis,Benitez,Houston,TX,31,M,4,3:42:17,89.6
+7,Richard,Oechslin,HOUSTON,TX,45,M,5,3:54:56,66.55
+8,Hayden,Lightfoot,Vidor,TX,27,M,6,4:02:27,77.71
+9,Casey,Wilson,Conroe,TX,46,M,7,4:04:47,89.4
+10,Jason,Trevino,Dallas,TX,34,M,8,4:06:15,83.74
+11,Sarah,Su,Houston,TX,53,F,3,4:11:59,85.67
+12,Tuongvi,Cao,Houston,TX,46,F,4,4:29:13,93.4
+13,Dan,Rodriguez,Houston,TX,40,M,9,4:31:33,74.85
+14,Norman,Marin-Astorga,Kingwood,TX,48,M,10,4:33:23,82.98
+15,Ryan,Forman,Spring,TX,37,M,11,4:36:47,74.62
+16,Kelly,Kupers,New York,NY,40,F,5,4:37:40,80.88
+17,Pete,Saulino,Missouri City,TX,34,M,12,4:43:36,76.08
+18,Rachel,Lowell,Mont Belvieu,TX,47,F,6,4:44:00,71.3
+19,Michael,Twining,SUGAR LAND,TX,33,M,13,4:46:30,69.52
+20,Carlos,Fernandez,Houston,TX,39,M,14,4:47:45,74.22
+21,Julio,Arias Viaud,Mission,TX,47,M,15,4:48:31,78.62
+22,Curtis,Mccall,Katy,TX,45,M,16,4:49:49,71.09
+23,Kristy,Buchanan,Cleveland,TX,44,F,7,4:58:47,0
+24,Daniel,Roberto,Hopewell Junction,NY,46,M,17,5:00:59,72.49
+25,Jay,Elizalde,San Antonio,TX,34,M,18,5:03:18,69.25
+26,Kasey,Sims,College Station,TX,38,F,8,5:07:38,70.17
+27,Milton,Paniagua,Cypress,TX,45,M,19,5:08:01,57.62
+28,Chris,Hurst,LaMarque,TX,36,M,20,5:08:36,74.46
+29,Paige,Jones,Greenville,TX,42,F,9,5:09:59,86.18
+30,Alexander,Corra,missouri city,TX,43,M,21,5:10:30,64.15
+31,Ben,Schmidtke,Freer,TX,30,M,22,5:10:31,66.11
+32,Jennifer,Antonik,Houston,TX,30,F,10,5:14:49,67.06
+33,Martin,Moisen,Houston,TX,48,M,23,5:15:11,70.73
+34,Natalie,Teltow,Spring,TX,45,F,11,5:15:46,68.37
+35,Eric,Nevarez,Houston,TX,33,M,24,5:23:29,62.99
+36,Christopher,Capehart,Austin,TX,41,M,25,5:23:50,56.07
+37,Julio,Cepeda,Houston,TX,43,M,26,5:24:27,68.02
+38,Frank,De Leon,Houston,TX,29,M,27,5:27:09,60.88
+39,Lisa,Icke,Missouri City,TX,55,F,12,5:28:48,69.1
+40,Douglas,Dawson,Mont Belvieu,TX,44,M,28,5:31:14,77.72
+41,Joey,Coats,Haughton,LA,40,M,29,5:33:15,79.42
+42,Hector,Estrada,Pearland,TX,33,M,30,5:35:01,59.45
+43,Juan,Estrada,Pearland,TX,25,M,31,5:36:27,59.2
+44,Tyler,Bowne,Port O’Connor,TX,32,M,32,5:38:49,58.79
+45,Abraham,Salinas,Houston,TX,43,M,33,5:40:41,57.01
+46,Daniel,Scarabello,Katy,TX,46,M,34,5:43:25,64.58
+47,Jerry,Bueno,Austin,TX,46,M,35,5:45:37,61.5
+48,Gusty,Graham,Katy,TX,47,M,36,5:46:25,65.84
+49,Jaime,Garcia,Houston,TX,33,M,37,5:47:53,57.25
+50,Trenton,Darrow,Salado,TX,29,M,38,5:48:14,59.96
+51,Troy,Sedlacek,FORNEY,TX,51,M,39,5:48:39,59.58
+52,Manuel,Reyes,Austin,TX,40,M,40,5:49:27,59.18
+53,Nagesh,Thukral,Houston,TX,44,M,41,5:50:24,56.84
+54,Javier,Martinez,Pasadena,TX,31,M,42,5:50:26,56.84
+55,Steve,Jones,Dallas,TX,55,M,43,5:50:50,53.55
+56,Jorge,Leon,Spring,TX,42,M,44,5:52:06,63.76
+57,Gabrielle,Koesel,Hartville,OH,22,F,13,5:54:07,71.52
+58,Phillip,Parcon,BEAUMONT,TX,54,M,45,5:58:44,52.57
+59,Steven,Wong,Houston,TX,50,M,46,5:59:54,55.34
+60,Julie,Schulze,Keller,TX,42,F,14,6:01:28,78.81
+61,Gautham S,Pai,Houston,TX,38,M,47,6:01:43,65.88
+62,Kimberly,Nitchals,Monument,CO,49,F,15,6:04:38,64.23
+63,Lynn,Hollis,Aledo,TX,50,F,16,6:04:41,60.64
+64,Jerry,Hofman,Oklahoma City,OK,53,M,48,6:05:50,54.44
+65,Mark,Appleford,Boerne,TX,43,M,49,6:06:44,60.36
+66,Lillian,White,San Antonio,TX,34,F,17,6:07:55,69.33
+67,Brad,Turner,Humble,TX,41,M,50,6:08:14,54.09
+68,Josh,Dobbs,Houston,TX,23,M,51,6:09:36,62.81
+69,Shannon,Knight,Houston,TX,52,F,18,6:09:50,58.37
+70,Lindsey,Appleford,Boerne,TX,43,F,19,6:10:35,67.08
+71,Molly,Blanchard,Houston,TX,36,F,20,6:11:09,59.34
+72,Andrew,Marvin,Fort Worth,TX,30,M,52,6:12:00,63.39
+73,Lindsey,Wilson,Houston,TX,43,F,21,6:12:39,64.41
+74,Omar,Lozano,Houston,TX,39,M,53,6:13:39,57.94
+75,Angelina,Wilson,Conroe,TX,43,F,22,6:14:40,68.61
+76,Dayana,Sprano,Mont Belvieu,TX,44,F,23,6:16:09,61.97
+77,Stephanie,Crawford,Cove,TX,48,F,24,6:19:42,64.48
+78,Roberta,Grieger-Nimmo,Bismarck,ND,35,F,25,6:21:15,69.43
+79,Fakhruddin,Rakla,the woodlands,TX,63,M,54,6:22:22,52.09
+80,Avanna,O’Brien,Humble,TX,36,F,26,6:22:33,62.12
+81,Jen,Roth,Sugar Land,TX,39,F,27,6:24:39,65.15
+82,Darrell,Tomasek,Victoria,TX,50,M,55,6:25:54,51.61
+83,Blanca,Gonzales,Arlington,TX,57,F,28,6:28:21,62.92
+84,Joshua,Johantges,Austin,TX,33,M,56,6:30:45,50.97
+85,Jessica,McDaniel,Katy,TX,37,F,29,6:32:21,84.7
+86,Kaytee,Robertson,Richmond,TX,37,F,30,6:32:22,68.33
+87,Michael,Egleston,New Braunfels,TX,39,M,57,6:35:04,42.96
+88,Jason,Enia,The Woodlands,TX,45,M,58,6:35:35,50.35
+89,Amanda,Duvall,Houston,TX,36,F,31,6:36:09,54.49
+90,Alicia,Sander,Tomball,TX,38,F,32,6:36:13,67.25
+91,Erick,Martinez,Houston,TX,42,M,59,6:38:01,50.69
+92,Laurie,Rosser,Plano,TX,53,F,33,6:39:45,69.51
+93,Jason,Gay,Spring,TX,51,M,60,6:40:22,49.6
+94,Sharon,Prentice,Manvel,TX,58,F,34,6:40:43,65.81
+95,Lisa,Tuckwood,Converse,TX,48,F,35,6:41:41,63.3
+96,Alejandro,Galvan,Pearland,TX,26,M,61,6:41:49,49.57
+97,Jake,Cherry,Florissant,CO,42,M,62,6:42:02,56.89
+98,Robert,Tyson,Sugar Land,TX,71,M,63,6:43:41,47.87
+99,Christopher,Ortiz,Houston,TX,32,M,64,6:44:21,53.29
+100,Jonathan,Ontiveros,Pasadena,TX,32,M,65,6:47:58,48.82
+101,Anthony,Mireles,Beaumont,TX,67,M,66,6:50:51,52.73
+102,Steven,Holehan,Conroe,TX,56,M,67,6:53:17,59.67
+103,Lorrie,Sigford,Buffalo,TX,45,F,36,6:53:22,58.04
+104,Isabelle,Kurzava,Spring,TX,62,F,37,6:54:48,62.4
+105,Felicitas,Sandoval,Houston,TX,50,F,38,6:55:01,60.77
+106,Melissa,Timko,Helendale,CA,50,F,39,6:55:19,61.98
+107,Teresa,Fields,Conroe,TX,45,F,40,6:55:51,61.72
+108,Abagail,Grosklags,Katy,TX,20,F,41,7:00:13,66.15
+109,Brad,Anderson,Austin,TX,37,M,68,7:00:52,47.33
+110,Heather,Cannon,San Antonio,TX,26,F,42,7:03:41,66.58
+111,Joseph,Bettencourt,Spring,TX,44,M,69,7:04:11,53.11
+112,Shannon,Moran,Houston,TX,43,F,43,7:04:12,59.76
+113,Eric,Maciel,Pearland,TX,35,M,70,7:04:44,45.01
+114,Alisa,Jestice,Missouri City,TX,50,F,44,7:07:06,50.55
+115,Liza,Criswell,Pearland,TX,50,F,45,7:07:43,50.47
+116,J.R.,Salazar,Richmond,TX,32,M,71,7:11:35,52.5
+117,Nathaniel,Binkley,Asheville,NC,33,M,72,7:13:06,45.99
+118,Matthew,Lovas,Lubbock,TX,36,M,73,7:13:13,55.74
+119,Charlie,Welbes,Spring,ME,36,M,74,7:13:58,45.9
+120,Brita,Blesi,Houston,TX,39,F,46,7:17:25,64.52
+121,Andrea,Marsh,Burnsville,MN,42,F,47,7:17:29,58.85
+122,Tram,Nguyen,Houston,TX,26,F,48,7:18:05,49.28
+123,Ray,Spicer,Houston,TX,29,M,75,7:22:20,45.03
+124,Alicia,Caine,Burleson,TX,41,F,49,7:22:28,55.81
+125,Darren,Schmunk,Burleson,TX,45,M,76,7:22:40,64.23
+126,Jay,Teinert,Bedford,TX,59,M,77,7:22:52,67.62
+127,Antonio,Romero Jr,Fort Worth,TX,45,M,78,7:22:55,52.92
+128,Paul,Hand,Shreveport,LA,36,M,79,7:32:09,52.81
+129,Joey,Ourso,Shreveport,LA,39,M,80,7:32:14,44.04
+130,David,Marchand,The Woodlands,TX,50,M,81,7:32:16,44.04
+131,Pearl,Hermosa,Brownsville,TX,56,F,50,7:35:40,51.57
+132,Heather,Doslich,Dallas,TX,34,F,51,7:39:18,69.43
+133,Andrew,Rennie,Houston,TX,52,M,82,7:40:02,52.68
+134,Melissa,Parish,Houston,TX,40,F,52,7:44:46,57.94
+135,Kim,Johnson,Richmond,TX,57,F,53,7:50:41,61.25
+136,Richard,Carroll,Houston,TX,62,M,83,7:57:00,51.09
+137,Aiko,Hanyu,Houston,TX,68,F,54,8:06:12,53.95
+138,Tracey,Guerrero,Houston,TX,34,F,55,8:18:14,43.33
+139,Leah,Fluitt,Shallowater,TX,30,F,56,8:24:47,55.86
+140,Bee,Holleran,Houston,TX,54,F,57,8:24:54,71.38
+141,David,Laity,Sahuarita,AZ,63,M,84,8:35:44,42.61
+142,Shelley,Lofland,Fort Worth,TX,56,F,58,8:37:36,61.12
+143,Hai,Trinh,Houston,TX,47,M,85,8:38:17,38.43
+144,Deepak,Neelakantan,Sugarland,TX,50,M,86,8:47:59,37.72
+145,Archana,Deepak,Sugarland,TX,45,F,59,8:52:35,40.53
+146,Donna,Allotta,Missouri City,TX,60,F,60,8:53:41,40.45
+147,Joe,Turner,Missouri City,TX,71,M,87,8:53:45,50.19
+148,Terrie,Gorney,Missouri City,TX,62,F,61,8:53:47,61.78
+149,Lourdes,Ticas,Sugarland,TX,51,F,62,9:13:15,39.02
+150,Eva,Sanders,San Marcos,TX,72,F,63,9:22:35,46.36
+151,Chelsea,Ross,Irving,TX,37,F,64,9:38:37,72.85
+152,Sara,Dudzikowski,Bulverde,TX,47,F,65,10:28:12,55.12
+153,Kim,Lindemann,Seabrook,TX,51,F,66,10:36:15,40.89
+154,Lisa,Decker,Kingwood,TX,35,F,67,10:36:18,45.74
+155,Patrice,Lenhart,Montgomery,TX,63,F,68,10:36:21,42.2
+156,Kelly,Hicks,Springtown,TX,41,F,69,11:09:04,48.61
